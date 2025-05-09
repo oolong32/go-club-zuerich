@@ -2,4 +2,8 @@ Title: Error
 
 ----
 
+Foo: Hier könnte ein Link auf die alte WS nützlich sein.
+
+----
+
 Uuid: HnLoLqYMGpS7kQ0P

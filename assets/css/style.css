@@ -1,0 +1,18 @@
+:root {
+  font-family: sans-serif;
+  font-size: 100%;
+  line-height: 1.4;
+}
+
+/* Links */
+.unstyled-link {
+  text-decoration: unset;
+  color: unset;
+}
+/* End Links */
+
+/* Navigagion */
+nav ul {
+  display: flex;
+}
+/* End Navigagion */

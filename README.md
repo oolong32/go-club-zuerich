@@ -1,3 +1,9 @@
+## Notes Josef
+
+- Kirby-Update: Gemäss [Kirby-YT](https://youtu.be/lLQZd64uvPs?si=-g7lFIqJWn64ZaXe&t=147) kann Update gemacht werden, indem der Ordner `/kirby` ausgetauscht wird, z.B. gegen den aus dem aktuellen [Plain-Kit](https://getkirby.com/try).
+
+## Kirby-Text (später löschen)
+
 <img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
 
 **Kirby: the CMS that adapts to any project, loved by developers and editors alike.**

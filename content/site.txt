@@ -1,1 +1,5 @@
-Title: Site Title
+Title: Go Club Zürich
+
+----
+
+Foo: Bar

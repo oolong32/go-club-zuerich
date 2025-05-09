@@ -53,3 +53,7 @@ Icon
 .vscode
 .swp
 .swo
+
+# Development Environment
+.ddev
+.herd
