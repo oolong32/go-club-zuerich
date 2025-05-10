@@ -10,7 +10,11 @@ Age: student
 
 ----
 
-Club: asdfasdf
+Club: Interlaken
+
+----
+
+Rank: 23 Kyu
 
 ----
 
@@ -19,6 +23,10 @@ Workshop: no
 ----
 
 Remarks: asfdfasdf
+
+----
+
+visibility: visible
 
 ----
 

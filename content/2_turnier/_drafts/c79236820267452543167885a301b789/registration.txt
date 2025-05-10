@@ -1,0 +1,37 @@
+Name: knut rollmops
+
+----
+
+Email: asdf@asdf.com
+
+----
+
+Rank: 8 Kyu
+
+----
+
+Age: adult
+
+----
+
+Club: Sempach
+
+----
+
+Workshop: yes
+
+----
+
+Remarks: asdf
+
+----
+
+Visibility: visible
+
+----
+
+Uuid: ZPiYErMjYrxMLEUq
+
+----
+
+Text: 

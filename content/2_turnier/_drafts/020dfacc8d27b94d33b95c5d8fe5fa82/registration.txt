@@ -1,0 +1,37 @@
+Name: fuzzi frosch
+
+----
+
+Email: fuzzifrosch@bla.com
+
+----
+
+Age: adult
+
+----
+
+Club: Luzern Ost
+
+----
+
+Workshop: maybe
+
+----
+
+Remarks: Hallihallo
+
+----
+
+Rank: 12 Kyu
+
+----
+
+Visibility: visible
+
+----
+
+Uuid: 0HepLJMj6Jjqay8P
+
+----
+
+Text: 

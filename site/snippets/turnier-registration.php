@@ -12,7 +12,7 @@
 
 <section class="form-element">
   <label for="rank">Strength</label>
-  <select id="rank" name="rank" value="<?= $data['strength'] ?? null ?>">
+  <select id="rank" name="rank" value="<?= $data['rank'] ?? null ?>">
     <option>8 Dan</option>
     <option>7 Dan</option>
     <option>6 Dan</option>
@@ -59,7 +59,7 @@
   <label for="age">Age</label>
   <!-- value nicht sauber, wenn es neu reinkommt -->
   <select id="age" name="age" value="<?= $data['age'] ?? null ?>">
-    <option selected="" value="0">-</option>
+    <option selected="" value="0">please choose</option>
     <option value="adult">Older than 18</option>
     <option value="student">Student and 25 or younger</option>
     <option value="minor">18 or younger</option>
@@ -72,25 +72,32 @@
 </section>
 
 <section class="form-element">
+  <input style="margin: 0 0 0.25rem;" type="checkbox" name="visibility" value="incognito" <?= (isset($data['visibility']) && $data['visibility'] == "incognito") ? "checked" : null ?>>
+  <label>Incognito: check if you don’t want to be on the <a href="#registered-players">registered players list</a>.</label>
+</section>
+
+<section class="form-element">
   <fieldset>
     <legend>I’d like to participate at the workshop with Cho Seok-bin on friday evening at the <a href="https://maps.app.goo.gl/yfGQ4CsZ7BLvrhmm8" target="_blank">Würfel</a>.</legend>
 
-    <div>
-      <input type="radio" id="yes" name="workshop" value="yes" <?= (isset($data['workshop']) && $data['workshop'] == "yes") ? "checked" : null ?> />
-      <label for="yes">yes</label>
+    <div class="radio-buttons" style="margin-top: 0.5rem;">
+      <span>
+        <input type="radio" id="yes" name="workshop" value="yes" <?= (isset($data['workshop']) && $data['workshop'] == "yes") ? "checked" : null ?> />
+        <label for="yes">yes</label>
+      </span>
+
+      <span>
+        <input type="radio" id="no" name="workshop" value="no" <?= (isset($data['workshop']) && $data['workshop'] == "no") ? "checked" : null ?> />
+        <label for="no">no</label>
+      </span>
+
+      <span>
+        <input type="radio" id="maybe" name="workshop" value="maybe" <?= (isset($data['workshop']) && $data['workshop'] == "maybe") ? "checked" : null ?> />
+        <label for="maybe">maybe</label>
+      </span>
     </div>
 
-    <div>
-      <input type="radio" id="no" name="workshop" value="no" <?= (isset($data['workshop']) && $data['workshop'] == "no") ? "checked" : null ?> />
-      <label for="no">no</label>
-    </div>
-
-    <div>
-      <input type="radio" id="maybe" name="workshop" value="maybe" <?= (isset($data['workshop']) && $data['workshop'] == "maybe") ? "checked" : null ?> />
-      <label for="maybe">maybe</label>
-    </div>
-
-    <p>More info about Seok-bin on his <a href="https://x.com/bin7674" target="_blank">x account</a> and his <a href="http://www.nakamurahoninbou.com/" target="_blank">web page</a>.</p>
+    <p>Find out about Seok-bin on his <a href="http://www.nakamurahoninbou.com/" target="_blank">web page</a>.</p>
   </fieldset>
 </section>
 
@@ -100,21 +107,18 @@
 
 </section>
 
-<section class="form-element">
-  <label>Incognito?</label>
-  <input type="checkbox" name="visibility" value="incognito" <?= (isset($data['visibility']) && $data['visibility'] == "incognito") ? "checked" : null ?>  >Please don’t add my name to the <a href="#Registered_Players">registreted players list</a>.
-</section>
-
 <div class="honey">
      <label for="website">If you are a human, leave this field empty</label>
      <input type="website" name="website" id="website" value="<?= isset($data['website']) ? esc($data['website']) : null ?>"/>
   </div>
 
-  <h3>Notice</h3>
-  <p>Your Name, Club, Rank and your Results in this tournament will be published on the <a href="http://europeangodatabase.eu/" target="_blank"> Go Database (EGD)</a>.</p>
 
+<section class="form-element">
   <input class="registration-button" type="submit" name="register" value="register">
+</section>
 
-  <p>Changes, cancelations or questions: (hier scrambled mail (brauchts das noch?), bzw. turnier-kontakt)</p>
+  <p>Changes, cancelations or questions: <a href="mailto:turnier@go-club-zh.ch"></a></p>
   
 </form>
+  <h3>Notice</h3>
+  <p>Your Name, Club, Rank and your Results in this tournament will be published on the <a href="http://europeangodatabase.eu/" target="_blank"> Go Database (EGD)</a>.</p>

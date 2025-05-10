@@ -1,5 +1,5 @@
 :root {
-  font-family: sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 100%;
   line-height: 1.4;
 }
@@ -11,13 +11,95 @@
 }
 /* End Links */
 
-/* Navigagion */
+/* Navigation */
 nav ul {
   display: flex;
 }
-/* End Navigagion */
+
+nav ul li {
+  margin-right: 1rem;
+}
+/* End Navigation */
+
+/* Typography */
+h1, h2, h3, h4, h5, h6, th, strong { font-weight: 600; }
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1rem; }
+h5 {
+  font-size: 1rem;
+  font-style: italic;
+}
+
+h1, h3, h4, h5, h6, p, ul, aside, form, table { margin-top: 1rem; }
+
+h2 { margin-top: 2rem; }
+
+/* End Typography */
+
+/* Layout */
+body {
+  margin: 0.5rem;
+}
+
+header, main, footer { margin-bottom: 2rem; }
+
+table {
+  /* border-spacing: 0.125rem; */
+  table-layout: fixed;
+  border: 1px solid gray;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.5rem 0.25rem;
+}
+
+
+tbody tr:nth-child(even) {
+  background-color: #ddd;
+}
+
+
+thead th:nth-child(1) {
+  width: 30%;
+}
+
+thead th:nth-child(2) {
+  width: 15%;
+}
+
+thead th:nth-child(3) {
+  width: 25%;
+}
+
+/* End Layout */
 
 /* Form */
+
+section.form-element {
+  margin-bottom: 1.5rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+fieldset .radio-buttons {
+  display: flex;
+}
+
+fieldset .radio-buttons label {
+  display: inline;
+  padding-right: 1rem;
+}
+
+fieldset legend {
+  line-height: 1.4; /* wtf? */
+}
+
 .alert {
   border: 1px solid red;
   background: pink;

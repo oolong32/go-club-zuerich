@@ -13,7 +13,11 @@
   </aside>
   <?php endif ?>
 
+  <!-- Registration -->
   <?php snippet('turnier-registration', compact('data')); ?>
+
+  <!-- Registered Players -->
+  <?php snippet('turnier-players', ['players' => $page->childrenAndDrafts()]); ?>
 
   <aside class="template-marker">Template: Turnier</aside>
 </main>

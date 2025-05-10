@@ -3,11 +3,9 @@
 // aus dem Kirby-Kochbuch
 // https://getkirby.com/docs/cookbook/forms/creating-pages-from-frontend
 // generiert einen Eintrag für jede Person, die sich registriert,
-// Als child von /content/turnier
-// siehe turnier-template
-// dann weiterleitung auf success, dazu braucht es ein Plugin,
-// um den Namen aus der Session abzuleiten
-// siehe /site/plugins/turnier
+// Als child von /content/turnier, siehe turnier-template,
+// dann weiterleitung auf success, dazu braucht es einen Controller,
+// um den Namen aus der Session abzuleiten, siehe /site/controller/success
 
 return function ($kirby, $page) {
 
@@ -23,12 +21,12 @@ return function ($kirby, $page) {
         $data = [
             'name'       => get('name'),
             'email'      => get('email'),
-            'strength'   => get('strength'),
+            'rank'       => get('rank'),
             'age'        => get('age'),
             'club'       => get('club'),
             'workshop'   => get('workshop'),
             'remarks'    => get('remarks'),
-            'visibility'  => get('visibility') ? 'hidden' : 'visible'
+            'visibility' => get('visibility') ? 'hidden' : 'visible'
         ];
 
         $rules = [
