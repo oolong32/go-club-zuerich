@@ -32,9 +32,9 @@ h5 {
   font-style: italic;
 }
 
-h1, h3, h4, h5, h6, p, ul, aside, form, table { margin-top: 1rem; }
+h1, h4, h5, h6, p, ul, aside, form, table, figure { margin-top: 1rem; }
 
-h2 { margin-top: 2rem; }
+h2, h3 { margin-top: 2rem; }
 
 /* End Typography */
 
@@ -113,14 +113,14 @@ fieldset legend {
 
 /* Debug Stuff */
 .template-marker {
-  display: block;
+  display: inline-block;
   position: absolute;
   top: 1rem;
   right: 1rem;
   background: papayawhip;
   border: 1px solid hotpink;
   border-radius: 0.25rem;
-  padding: 0.25rem 0.5rem 0.125rem;
+  padding: 0.25rem 0.5rem;
   transform: rotate(-4deg);
   font-size: 0.875rem;
   box-shadow: black 0.15rem 0.125rem 0.25rem;

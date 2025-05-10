@@ -22,7 +22,7 @@
     <nav>
       <ul>
         <?php foreach ($site->children()->listed() as $item): ?>
-        <li><a class="unstyled-link" href="<?= $item->url() ?>"><?= $item->title() ?></a></li>
+        <li><a class="unstyled-link" href="<?= $item->url() ?>"><?= $item->naviName() ?></a></li>
         <?php endforeach ?>
       </ul>
     </nav>

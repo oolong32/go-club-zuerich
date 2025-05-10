@@ -6,7 +6,7 @@
 
    <div> <?= $page->text() ?> </div>
 
-    <aside class="template-marker">Default Template</aside>
+    <aside class="template-marker">Template: Default</aside>
   </main>
 
 <?php snippet('footer') ?>

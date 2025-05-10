@@ -1,6 +1,14 @@
 <?php snippet('header') ?>
 
 <main>
+  <h2><?= $page->title() ?></h2>
+
+  <section id="tournament-info">
+  <h3>General Information</h3>
+    <?= $page->text() ?>
+
+    <p><strong>Date:</strong> <?= $page->date() ?></p>
+  </section>
 <?php
   // if the form input is not valid, show a list of alerts
   if ($alert): ?>

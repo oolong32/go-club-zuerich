@@ -1,6 +1,7 @@
 ## Notes Josef
 
 - Kirby-Update: Gemäss [Kirby-YT](https://youtu.be/lLQZd64uvPs?si=-g7lFIqJWn64ZaXe&t=147) kann Update gemacht werden, indem der Ordner `/kirby` ausgetauscht wird, z.B. gegen den aus dem aktuellen [Plain-Kit](https://getkirby.com/try).
+- todo: [Mail config](https://getkirby.com/docs/guide/emails#transport-configuration)
 
 ## Kirby-Text (später löschen)
 

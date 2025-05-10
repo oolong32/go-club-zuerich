@@ -1,3 +1,5 @@
+<h3>Registration</h3>
+
 <form action="<?= $page->url() ?>" method="POST">
 
 <section class="form-element">
@@ -76,6 +78,7 @@
   <label>Incognito: check if you don’t want to be on the <a href="#registered-players">registered players list</a>.</label>
 </section>
 
+<h3>Workshop</h3>
 <section class="form-element">
   <fieldset>
     <legend>I’d like to participate at the workshop with Cho Seok-bin on friday evening at the <a href="https://maps.app.goo.gl/yfGQ4CsZ7BLvrhmm8" target="_blank">Würfel</a>.</legend>
@@ -117,7 +120,7 @@
   <input class="registration-button" type="submit" name="register" value="register">
 </section>
 
-  <p>Changes, cancelations or questions: <a href="mailto:turnier@go-club-zh.ch"></a></p>
+  <p>Changes, cancelations or questions: <a href="mailto:zuerigo@gmail.com"></a></p>
   
 </form>
   <h3>Notice</h3>

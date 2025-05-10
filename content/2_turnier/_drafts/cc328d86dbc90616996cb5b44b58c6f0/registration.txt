@@ -6,7 +6,7 @@ Email: foo.bar@baz.com
 
 ----
 
-Rank: please choose
+Rank: 20 Kyu
 
 ----
 

@@ -1,6 +1,6 @@
 <?php if ($players): ?>
 
-<h2 id="registered-players">Registerd Players</h2>
+<h3 id="registered-players">Registerd Players</h3>
 <table>
   <thead>
   <tr>

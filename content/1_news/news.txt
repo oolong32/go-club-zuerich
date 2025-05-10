@@ -2,4 +2,12 @@ Title: News
 
 ----
 
+Naviname: News
+
+----
+
+Text: We have a new Website! 🚀
+
+----
+
 Uuid: Q3MnUO9vPERtHrVw
