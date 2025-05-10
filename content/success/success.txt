@@ -1,0 +1,16 @@
+Title: Success
+
+----
+
+Text:
+
+Hello {{ name }},
+Thank your for registering for **{{ turnier }}**.
+
+You will receive confirmation and further information soon via email to the address you provided.
+
+Ändern: !!! If you want to register for another event, go back to the <a href="https://getkirby.com/events">Events overview page</a>.
+
+----
+
+Uuid: xsuNUs4UolVV5oRw

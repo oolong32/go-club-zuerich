@@ -16,3 +16,31 @@ nav ul {
   display: flex;
 }
 /* End Navigagion */
+
+/* Form */
+.alert {
+  border: 1px solid red;
+  background: pink;
+  padding: 1rem;
+}
+.honey {
+  position: absolute;
+  left: -9999px;
+}
+/* End Form */
+
+/* Debug Stuff */
+.template-marker {
+  display: block;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: papayawhip;
+  border: 1px solid hotpink;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem 0.125rem;
+  transform: rotate(-4deg);
+  font-size: 0.875rem;
+  box-shadow: black 0.15rem 0.125rem 0.25rem;
+}
+/* End Debug Stuff */

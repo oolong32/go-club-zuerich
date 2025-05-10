@@ -1,0 +1,29 @@
+Name: fröschli asdf
+
+----
+
+Email: asdf@asdf.com
+
+----
+
+Age: student
+
+----
+
+Club: asdfasdf
+
+----
+
+Workshop: no
+
+----
+
+Remarks: asfdfasdf
+
+----
+
+Uuid: hjRGXTzJ19GHyXJf
+
+----
+
+Text: 

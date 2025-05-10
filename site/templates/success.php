@@ -1,4 +1,3 @@
-
 <?php snippet('header') ?>
 
   <main>
@@ -6,7 +5,7 @@
 
    <div> <?= $page->text() ?> </div>
 
-    <aside class="template-marker">Default Template</aside>
+    <aside class="template-marker">Template: Success</aside>
   </main>
 
 <?php snippet('footer') ?>
