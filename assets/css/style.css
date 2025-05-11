@@ -74,8 +74,8 @@ body {
 
 img { width: 100%; }
 
-header, main { margin-bottom: 2rem; }
-
+header { margin: 2rem 0;}
+main { margin-bottom: 2rem; }
 footer {
   /* border: 1px solid violet; */
   margin: auto 0 1rem; /* auto = flex-end */
