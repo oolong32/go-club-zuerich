@@ -18,3 +18,13 @@ columns:
         type: files
         layout: list
         max: 1
+        accept: image/jpeg, image/png, image/gif
+      pictureText:
+        type: fields
+        fields:
+          imageLegend:
+            label: Image Legend
+            type: text
+          altText:
+            label: alt-Text
+            type: text

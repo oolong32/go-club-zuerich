@@ -87,10 +87,11 @@ main {
 
 article.news-item {
   /* border: 1px solid tomato; */
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
 }
 
-article.news-item small {
+article.news-item h3 {
+  margin: 0.5rem 0;
 }
 
 table {

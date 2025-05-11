@@ -6,13 +6,23 @@ Author: Josef
 
 ----
 
-Text:
-
-We have a new Website. It’s made with [Kirby CMS](https://getkirby.com). 🚀
+Date: 2025-05-10
 
 ----
 
-Date: 2025-05-10
+Text: We have a new Website. It’s made with [Kirby CMS](https://getkirby.com). 🚀
+
+----
+
+Imagelegend: 
+
+----
+
+Alttext: Bild eines französisch beschrifteten Karpfens
+
+----
+
+Legend: La carpe koi
 
 ----
 
