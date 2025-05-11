@@ -1,0 +1,19 @@
+Title: New Website
+
+----
+
+Author: Josef
+
+----
+
+Text:
+
+We have a new Website. It’s made with [Kirby CMS](https://getkirby.com). 🚀
+
+----
+
+Date: 2025-05-10
+
+----
+
+Uuid: hIGmhBKA2XakxVHR

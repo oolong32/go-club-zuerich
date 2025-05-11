@@ -4,7 +4,15 @@ Title: Home
 
 Text:
 
-Bla bla, Mittwoch Parki
+### Clublokal
+
+(link: https://www.park-platz.org/de/spaces/wuerfel text: Würfel) im Park Platz («Parki»), (link: https://s.geo.admin.ch/qfi5tb5o4tct text: Wasserwerkstrasse 101)
+
+### Spieleabend
+
+Mittwoch ab 19 Uhr
+
+**Einfach vorbeischauen, es findet sich immer jemand zum Spielen.**
 
 ----
 

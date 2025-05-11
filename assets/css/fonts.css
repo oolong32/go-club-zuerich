@@ -1,4 +1,61 @@
+/* Karrik-Regular */
+
 @font-face {
-  font-family: 'bla';
-  src: url(../fonts/bla.woff2);
+  font-family: "karrik";
+  src: url("/assets/fonts/karrik/karrik-regular.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Karrik-Italic */
+
+@font-face {
+  font-family: "karrik";
+  src: url("/assets/fonts/karrik/karrik-italic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Abordage-Regular */
+
+@font-face {
+  font-family: "abordage";
+  src: url("/assets/fonts/degheest-family/abordage-regular.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Equateur-Regular */
+
+@font-face {
+  font-family: "equateur";
+  src: url("/assets/fonts/degheest-family/equateur-regular.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Latitude-Regular */
+
+@font-face {
+  font-family: "latitude";
+  src: url("/assets/fonts/degheest-family/latitude-regular.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Louise-Regular */
+
+@font-face {
+  font-family: "louise";
+  src: url("/assets/fonts/degheest-family/louise-regular.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Director-Variable */
+
+@font-face {
+	font-family: 'director';
+  src: url('/assets/fonts/degheest-family/director-variable.woff2') format('woff2-variations');
+	font-weight: 100 700;
 }

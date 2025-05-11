@@ -1,0 +1,20 @@
+title: News Item
+
+columns:
+  - width: 1/2
+    sections:
+      text:
+        type: fields
+        fields:
+          author:
+            type: text
+          date:
+            type: date
+          text:
+            type: textarea
+  - width: 1/2
+    sections:
+      picture:
+        type: files
+        layout: list
+        max: 1
