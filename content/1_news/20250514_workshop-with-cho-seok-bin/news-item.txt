@@ -14,7 +14,7 @@ Text: Cho Seok Bin will be conducting a workshop soon.
 
 ----
 
-Imagelegend: foo bar baz
+Imagelegend: 
 
 ----
 

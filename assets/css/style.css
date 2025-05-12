@@ -35,7 +35,7 @@ nav ul li a:hover {
 /* Typography global settings */
 
 body {
-  font-family: abordage;
+  font-family: 'computer modern serif';
 }
 
 h1 {
@@ -46,7 +46,7 @@ h2, h3 {
   /* font-family: times, latitude, sans-serif; */
 }
 
-h1, h2, h3, h4, h5, h6, th, strong { font-weight: normal; }
+h1, h2, h3, h4, h5, h6, th, strong { font-weight: 700; }
 h1 { font-size: var(--fs-supi); }
 h2 { font-size: var(--fs-maxi); }
 h3 { font-size: var(--fs-midi); }

@@ -1,1 +1,26 @@
+Title: Info
+
+----
+
+Text:
+
+### Der Vorstand
+
+Lorenz Trippel
+(tel: 077 417 39 70) [Whatsapp](https://wa.me/41774173970)
+(email: ltrippel@gmail.com)
+
+**Postcheckkonto**
+Zürcher Go Club
+87-95157-8
+IBAN: CH93 0900 0000 8709 5157 8
+
+Statuten
+
+----
+
+Naviname: Info
+
+----
+
 Uuid: sV4MzUsevnoKqDcJ

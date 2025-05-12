@@ -1,3 +1,33 @@
+/* Computer Modern */
+
+@font-face {
+  font-family: "computer modern serif";
+  src: url("/assets/fonts/computer-modern/serif/cmunrm.woff") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "computer modern serif";
+  src: url("/assets/fonts/computer-modern/serif/cmunti.woff") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "computer modern serif";
+  src: url("/assets/fonts/computer-modern/serif/cmunbx.woff") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "computer modern serif";
+  src: url("/assets/fonts/computer-modern/serif/cmunbi.woff") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
+
 /* Karrik-Regular */
 
 @font-face {
