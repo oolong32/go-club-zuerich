@@ -4,4 +4,5 @@
 - todo: [Mail config](https://getkirby.com/docs/guide/emails#transport-configuration)
 - subpages von `/turnier` sollten per .gitignore ausgeschlossen werden (mail adressen)
 - .env datei für mail adressen etc.
+- styling language switch
 
