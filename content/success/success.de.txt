@@ -1,0 +1,15 @@
+Title: Registrierung abgeschlossen
+
+----
+
+Text:
+
+Lieber {{ name }},
+Danke für deine Anmeldung zum **{{ turnier }}**.
+
+Du solltest in Kürze ein E-Mail zur Bestätigung erhalten.
+
+
+----
+
+Uuid: 8lIUzSXmXHyNDAA9

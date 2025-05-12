@@ -1,1 +1,15 @@
+Title: Registration complete
+
+----
+
+Text:
+
+Dear {{ name }},
+Thank your for registering for the **{{ turnier }}**.
+
+You should receive confirmation via email shortly.
+
+
+----
+
 Uuid: 8lIUzSXmXHyNDAA9
