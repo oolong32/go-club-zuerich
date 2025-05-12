@@ -5,4 +5,5 @@
 - subpages von `/turnier` sollten per .gitignore ausgeschlossen werden (mail adressen)
 - .env datei für mail adressen etc.
 - styling language switch
+- testen: funktioniert language switch auch ab seiten mit abweichenden slug-varianten je nach Sprache?
 

@@ -59,3 +59,7 @@ Icon
 .herd
 # Josefs localhost config
 /site/config/config.go-club-zuerich.ddev.site.php
+
+# don’t publish tournament player data
+# ? matches any character, i.e. a prefixed number
+/?_tournament/_drafts
