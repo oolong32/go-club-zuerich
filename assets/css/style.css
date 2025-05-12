@@ -38,7 +38,7 @@ nav ul li a:hover {
 /* Typography global settings */
 
 body {
-  font-family: 'computer modern serif';
+  font-family: Inter, sans-serif;
 }
 
 h1 {
