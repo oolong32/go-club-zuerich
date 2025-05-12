@@ -121,7 +121,8 @@
 </section>
 
   <p>Changes, cancelations or questions: <a href="mailto:zuerigo@gmail.com"></a></p>
-  
+
 </form>
-  <h3>Notice</h3>
-  <p>Your Name, Club, Rank and your Results in this tournament will be published on the <a href="http://europeangodatabase.eu/" target="_blank"> Go Database (EGD)</a>.</p>
+
+<h3>Notice</h3>
+<p>Your Name, Club, Rank and your Results in this tournament will be published on the <a href="http://europeangodatabase.eu/" target="_blank"> Go Database (EGD)</a>.</p>

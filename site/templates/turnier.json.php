@@ -1,7 +1,7 @@
 <?php
 // generiert eine Teilnehmerliste im JSON-Format
 
-$players = $pages->find('turnier')->childrenAndDrafts();
+$players = $pages->find('tournament')->childrenAndDrafts();
 $json = [];
 
 foreach($players as $player) {

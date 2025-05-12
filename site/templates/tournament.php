@@ -9,6 +9,7 @@
 
     <p><strong>Date:</strong> <?= $page->date() ?></p>
   </section>
+
 <?php
   // if the form input is not valid, show a list of alerts
   if ($alert): ?>
@@ -22,10 +23,10 @@
   <?php endif ?>
 
   <!-- Registration -->
-  <?php snippet('turnier-registration', compact('data')); ?>
+  <?php snippet('tournament-registration', compact('data')); ?>
 
   <!-- Registered Players -->
-  <?php snippet('turnier-players', ['players' => $page->childrenAndDrafts()]); ?>
+  <?php snippet('tournament-players', ['players' => $page->childrenAndDrafts()]); ?>
 
   <aside class="template-marker">Template: Turnier</aside>
 </main>
