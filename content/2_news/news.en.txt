@@ -1,0 +1,9 @@
+Title: News
+
+----
+
+Naviname: news
+
+----
+
+Uuid: 2Wcephpp3ZbH2n65

@@ -3,3 +3,9 @@ title: News
 sections:
   news:
     type: pages
+  fields:
+    type: fields
+    fields:
+      naviname:
+        type: text
+        label: Navi Name

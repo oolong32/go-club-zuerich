@@ -1,0 +1,23 @@
+Title: Neue Website
+
+----
+
+Slug: neue-website
+
+----
+
+Text:
+
+Wir haben eine neue Website!
+
+(image: carpekoi.jpg)
+
+Das ist nur ein *Testbild*.
+
+----
+
+Author: Josef
+
+----
+
+Date: 2025-05-12
