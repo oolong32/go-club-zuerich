@@ -9,16 +9,6 @@
       <small><?= $article->date()->toDate('d.m.Y') ?></small>
       <h3><?= $article->title()->html() ?></h3>
       <?= $article->text()->kirbytext() ?>
-      <?php if($image = $article->image()): ?>
-        <figure>
-          <img
-            src="<?= $image->url() ?>"
-            alt="<?= (string)$article->altText() ?: 'Sorry, no alt-text for this image.' ?>">
-          <?php if($legend = $article->legend()): ?>
-          <figcaption><?= $legend ?></figcaption>
-          <?php endif ?>
-        </figure>
-    <?php endif ?>
     </article>
 
     <?php endforeach ?>

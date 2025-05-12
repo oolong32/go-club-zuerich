@@ -1,0 +1,35 @@
+Title: New Website
+
+----
+
+Author: Josef
+
+----
+
+Date: 2025-05-10
+
+----
+
+Text:
+
+We have a new Website. It’s made with [Kirby CMS](https://getkirby.com). 🚀
+
+(image: carpekoi.jpg)
+
+This image represents everything.
+
+----
+
+Imagelegend: 
+
+----
+
+Alttext: Bild eines französisch beschrifteten Karpfens
+
+----
+
+Legend: La carpe koi
+
+----
+
+Uuid: hIGmhBKA2XakxVHR

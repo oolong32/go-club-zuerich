@@ -6,25 +6,17 @@ columns:
       text:
         type: fields
         fields:
-          author:
-            type: text
-          date:
-            type: date
           text:
             type: textarea
   - width: 1/2
     sections:
-      picture:
-        type: files
-        layout: list
-        max: 1
-        accept: image/jpeg, image/png, image/gif
-      pictureText:
+      info:
         type: fields
         fields:
-          imageLegend:
-            label: Image Legend
+          author:
             type: text
-          altText:
-            label: alt-Text
-            type: text
+          date:
+            type: date
+      files:
+        type: files
+        layout: list
