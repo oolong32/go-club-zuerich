@@ -124,5 +124,5 @@
 
 </form>
 
-<h3>Notice</h3>
+<h4>Notice</h4>
 <p>Your Name, Club, Rank and your Results in this tournament will be published on the <a href="http://europeangodatabase.eu/" target="_blank"> Go Database (EGD)</a>.</p>

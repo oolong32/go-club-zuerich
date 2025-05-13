@@ -1,4 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/* Token Sans */
+
+@font-face {
+  font-family: "Token Sans";
+  src: url("/assets/fonts/token/TokenSans7-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Token Sans";
+  src: url("/assets/fonts/token/TokenSans7-Regular.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Token Sans";
+  src: url("/assets/fonts/token/TokenSans7-Medium.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Token Sans";
+  src: url("/assets/fonts/token/TokenSans7-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal; }
+
 /* Computer Modern */
 
 @font-face {

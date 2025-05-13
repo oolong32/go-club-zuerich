@@ -1,7 +1,7 @@
 <?php if ($players): ?>
 
 <h3 id="registered-players">Registerd Players</h3>
-<table>
+<table id="players-table">
   <thead>
   <tr>
     <th>Name</th>

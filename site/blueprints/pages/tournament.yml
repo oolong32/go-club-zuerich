@@ -18,11 +18,36 @@ columns:
       metafields:
         type: fields
         fields:
-          date:
+          day1:
             type: date
-            label: date
+            label: Day One
+          day2:
+            type: date
+            label: Day Two
+          registration:
+            type: time
+            label: Registration
+          round1:
+            type: time
+            label: Round One
+          round2:
+            type: time
+            label: Round Two
+          round3:
+            type: time
+            label: Round Three
+          round4:
+            type: time
+            label: Round Four
+          round5:
+            type: time
+            label: Round Five
+          prizeGiving:
+            type: time
+            label: Prize Giving
           naviname:
             type: text
             label: Navi Name
+
 
 

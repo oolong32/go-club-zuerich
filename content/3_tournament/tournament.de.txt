@@ -2,8 +2,91 @@ Title: Frühlingsturnier 2026
 
 ----
 
-Text: 
+Slug: tournier
+
+----
+
+Text:
+
+**Das offizielle Turnier des Zürcher Go-Clubs!**
+
+Cho Seok-bin wird während des gesamten Turniers anwesend sein, um Fragen zu beantworten und eure Partien zu analysieren!
+
+**Datum:** 9. / 10. Mai 2026
+
+**Beginn:** Samstag, 9. Mai, 13:00 Uhr
+
+**Erste Partie:** Falls du nicht vorangemeldet bist, komm bitte eine halbe Stunde früher.
+
+Ort: (link: https://gz-zh.ch/gz-buchegg/ text: Gemeinschaftszentrum GZ Buchegg), Spiegelsaal
+Bucheggstrasse 93, 8057 Zürich (direkt beim Bucheggplatz)
+
+Anreise mit dem öffentlichen Verkehr:
+Ab Zürich Hauptbahnhof mit Tram (link: https://www.google.com/maps/dir/Zurich+HB,+Bahnhofplatz,+Z%C3%BCrich/GZ+Buchegg+-+Z%C3%BCrcher+Gemeinschaftszentren,+Bucheggstrasse+93,+8057+Z%C3%BCrich/@47.3877609,8.5281868,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5402517!2d47.3781458!1m5!1m1!1s0x47900a65005f702f:0x77c28a6800c95818!2m2!1d8.5350633!2d47.3990007!3e3?entry=ttu text: Tram 11 oder 15) in Richtung Oerlikon (Züriberg) bergauf, bei Bucheggplatz aussteigen.
+
+Notfalltelefon während des Turniers: (tel: +41 77 417 39 70)
+Bitte ruf an oder sende eine WhatsApp-Nachricht oder SMS, falls du dich verspätest oder unerwartet gehen musstest!
+
+----
+
+Day1: 2026-05-09
+
+----
+
+Day2: 2026-05-10
+
+----
+
+Registration: 12:00:00
+
+----
+
+Round1: 13:00:00
+
+----
+
+Round2: 16:00:00
+
+----
+
+Round3: 19:00:00
+
+----
+
+Round4: 10:00:00
+
+----
+
+Round5: 13:00:00
+
+----
+
+Prizegiving: 16:00:00
 
 ----
 
 Naviname: turnier
+
+----
+
+Pricegiving: 16:00:00
+
+----
+
+Dayone: 2026-05-09
+
+----
+
+Daytwo: 2026-05-10
+
+----
+
+Roundone: 
+
+----
+
+Roundtwo: 
+
+----
+
+Date: 2026-05-23

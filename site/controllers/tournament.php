@@ -48,7 +48,7 @@ return function ($kirby, $page) {
       $kirby->impersonate('kirby');
 
       // everything is ok, let’ send a confirmation mail
-      // try {
+      try {
         $kirby->email([
           'template' => 'confirmation',
           'from'     => 'zuerigo@gmail.com',
@@ -60,7 +60,8 @@ return function ($kirby, $page) {
             ]
           ]);
 
-          /*
+          // Was noch fehlt: Info-Mail an Lorenz, mit $data['remarks']
+
         } catch (Exception $error) {
           if (option('debug')):
             $alert['error'] = 'The confirmation mail could not be sent: <strong>' . $error->getMessage() . '</strong>';
@@ -68,7 +69,6 @@ return function ($kirby, $page) {
             $alert['error'] = 'The confirmation mail could not be sent!';
           endif;
         }
-          */
 
         // everything is ok, let’s try to create a new registration
         try {
