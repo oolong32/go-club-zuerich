@@ -2,7 +2,7 @@ Title: Frühlingsturnier 2026
 
 ----
 
-Slug: tournier
+Slug: turnier
 
 ----
 
@@ -83,11 +83,11 @@ Daytwo: 2026-05-10
 
 ----
 
-Roundone: 
+Roundone:
 
 ----
 
-Roundtwo: 
+Roundtwo:
 
 ----
 

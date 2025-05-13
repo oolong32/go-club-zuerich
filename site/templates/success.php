@@ -11,14 +11,7 @@
 ]) ?>
    </section>
 
-   <!--
-      Achtung
-      en = tournament
-      de = turnier
-      Aber sowieso: der folgende Absatz muss übersetzt werden
-      https://getkirby.com/docs/guide/languages/custom-language-variables
-    -->
-   <p>Back to the <a href="/turnier">Tournament Page</a></p>
+   <p><?php echo t('backToTournament') ?></p>
 
     <aside class="template-marker">Template: Success</aside>
   </main>

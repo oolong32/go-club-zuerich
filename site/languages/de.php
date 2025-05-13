@@ -25,7 +25,10 @@ return [
     'registration' => 'Anmeldung',
     'notice' => 'Hinweis',
     'egdNotice' => 'Dein Name, Club und dein Spielniveau, sowie die Resultate in diesem Turnier werden in der <a href="https://europeangodatabase.eu/" target="_blank">europäischen Go Datenbank (EGD)</a> publiziert.',
-    'foo' => 'bar',
-    'foo' => 'bar',
+    'dear' => 'Liebe:r',
+    'youRegistered' => 'Du hast dich angemeldet zum',
+    'ifQuestions' => 'Wenn du Fragen hast, kannst du auf dieses Mail antworten',
+    'lookingForward' => 'Wir freuen uns darauf, dich am Turnier zu begrüssen',
+    'backToTournament' => 'Zurück zur <a href="/de/turnier">Turnier Seite</a>'
   ]
 ];

@@ -1,7 +1,7 @@
-Dear <?= $name ?>,
+<?php echo t('dear') ?> <?= $name ?>,
 
-Your have registered for the <?= $tournament ?>.
+<?php echo t('youRegistered') ?> <?= $tournament ?>.
 
-If you have any questions you can answer to this mail.
+<?php echo t('ifQuestions') ?>.
 
-We are looking forward to seeing you!
+<?php echo t('lookingForward') ?>!

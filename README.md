@@ -4,11 +4,10 @@
 
 ## Todo
 
-- [Mail config](https://getkirby.com/docs/guide/emails#transport-configuration)
 - ✅ subpages von `/turnier` sollten per .gitignore ausgeschlossen werden (mail adressen)
 - ✅ testen: funktioniert language switch auch ab seiten mit abweichenden slug-varianten je nach Sprache?
+- ✅ Übersetzung confirmation-mail
+- Auf dem Server: [Mail config](https://getkirby.com/docs/guide/emails#transport-configuration)
 - .env datei für mail adressen etc.
 - styling language switch
-- Übersetzung confirmation-mail 
-- Wie wissen wir, ob jemand das englische Formular ausgefüllt hat? Wie lässt sich das im controller feststellen?
-
+- not so good: change language on success page breaks the internet.

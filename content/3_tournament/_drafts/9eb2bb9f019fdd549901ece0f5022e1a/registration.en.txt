@@ -1,0 +1,37 @@
+Name: Karel Gott
+
+----
+
+Email: karel@paradies.com
+
+----
+
+Rank: 8 Kyu
+
+----
+
+Age: adult
+
+----
+
+Club: Prag
+
+----
+
+Workshop: maybe
+
+----
+
+Remarks: Biene Maja lebt! 🐝
+
+----
+
+Visibility: visible
+
+----
+
+Uuid: gbqNI87DMOwaGh0I
+
+----
+
+Text: 

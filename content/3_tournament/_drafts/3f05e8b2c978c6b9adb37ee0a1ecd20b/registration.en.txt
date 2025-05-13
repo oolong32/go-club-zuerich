@@ -1,0 +1,37 @@
+Name: ZZ Top
+
+----
+
+Email: zz@top.edu
+
+----
+
+Rank: 15 Kyu
+
+----
+
+Age: adult
+
+----
+
+Club: Las Vegas
+
+----
+
+Workshop: maybe
+
+----
+
+Remarks: Viva Las Vegas!
+
+----
+
+Visibility: visible
+
+----
+
+Uuid: 7GxNcM6w5EVRDHDb
+
+----
+
+Text: 

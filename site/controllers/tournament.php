@@ -34,6 +34,7 @@ return function ($kirby, $page) {
       'email' => ['required', 'email'],
     ];
 
+    // lässt sich folgendes mit translation-var übersetzen?
     $messages = [
       'name'  => 'Please enter your <a href="#name">name</a>',
       'email' => 'Please enter a valid <a href="#email">email address</a>',

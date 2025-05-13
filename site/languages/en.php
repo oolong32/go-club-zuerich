@@ -24,5 +24,10 @@ return [
     'minor' => '18 or younger',
     'registration' => 'Registration',
     'egdNotice' => 'Your Name, Club, Rank and your Results in this tournament will be published on the <a href="https://europeangodatabase.eu/" target="_blank">Go Database (EGD)</a>.',
+    'dear' => 'Dear',
+    'youRegistered' => 'you have registered for the',
+    'ifQuestions' => 'If you have any questions you can answer to this mail',
+    'lookingForward' => 'We are looking forward to seeing you',
+    'backToTournament' => 'Back to the <a href="/en/tournament">Tournament Page</a>',
   ],
 ];
