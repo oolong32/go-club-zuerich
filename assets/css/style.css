@@ -27,6 +27,7 @@ nav ul {
 
 nav ul li {
   margin-right: 1rem;
+  text-transform: capitalize;
 }
 
 nav ul li a:hover {
@@ -108,29 +109,29 @@ table {
   text-transform: capitalize;
 }
 
-.players-table th, .players-table td {
+#players-table th, #players-table td {
   text-align: left;
   padding: 0.5rem 0.25rem;
 }
 
-.players-table th:nth-child(2), .players-table td:nth-child(2) { /* Rank */
+#players-table th:nth-child(2), #players-table td:nth-child(2) { /* Rank */
   text-align: right;
   padding-right: 2rem;
 }
 
-.players-table tbody tr:nth-child(even) {
+#players-table tbody tr:nth-child(odd) {
   background-color: #ddd;
 }
 
-.players-table thead th:nth-child(1) {
+#players-table thead th:nth-child(1) {
   width: 20%;
 }
 
-.players-table thead th:nth-child(2) {
+#players-table thead th:nth-child(2) {
   width: 15%;
 }
 
-.players-table thead th:nth-child(3) {
+#players-table thead th:nth-child(3) {
   width: 20%;
 }
 

@@ -1,11 +1,11 @@
 <?php if ($players): ?>
 
-<h3 id="registered-players">Registerd Players</h3>
+<h3 id="registered-players"><?php echo t('Registerd Players') ?></h3>
 <table id="players-table">
   <thead>
   <tr>
     <th>Name</th>
-    <th>Rank</th>
+    <th><?php echo t('strength') ?></th>
     <th>Club</th>
   </tr>
 </thead>
