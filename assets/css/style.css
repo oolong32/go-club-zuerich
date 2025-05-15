@@ -18,23 +18,65 @@
 /* End Links */
 
 /* Navigation */
-nav ul {
+nav .page-navigation {
   display: flex;
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-nav ul li {
+nav .page-navigation li {
   margin-right: 1rem;
   text-transform: capitalize;
 }
 
-nav ul li a:hover {
+nav .page-navigation li a:hover {
   text-decoration: underline;
 }
-
 /* End Navigation */
+
+
+/* Language Switch */
+nav .language-switch {
+  position: absolute;
+  display: inline-block;
+  transform: rotate(-12deg) translateX(5.5rem);
+  top: 0;
+  right: 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+nav .language-switch li {
+  font-size: var(--fs-mini);
+  margin-bottom: 0.75rem;
+  background: #999;
+  margin-bottom: 0.25rem;
+  padding: 0.125rem 0.5rem 0.25rem;
+  border-radius: 0.5rem;
+  transition: transform 0.3s 0.2s;
+  transform: scale(0.9);
+}
+nav .language-switch li.active {
+  background: palegreen;
+  transform: scale(1.2);
+  box-shadow: gray 0.15rem 0.125rem 0.25rem;
+}
+
+nav .language-switch li:not(.active):hover {
+  /* transform: scale(1.1); */
+}
+
+nav .language-switch a {
+  text-decoration: none;
+  color: white;
+}
+
+nav .language-switch li.active a {
+  color: black;
+}
+
+/* end Language Switch */
 
 /* Typography global settings */
 
@@ -57,9 +99,10 @@ h2 { font-size: var(--fs-maxi); }
 h3 { font-size: var(--fs-midi); }
 h4 { font-size: var(--fs-norm); }
 h5 {
-  font-size: 1rem;
+  font-size: var(--fs-norm);
   font-style: italic;
 }
+p, li { font-size: var(--fs-norm); }
 small { font-size: var(--fs-mini); }
 
 h1, h5, h6, p, ul, aside, form, table, figure { margin-bottom: 1rem; }
@@ -79,7 +122,7 @@ body {
 
 img { width: 100%; }
 
-header { margin: 2rem 0;}
+header { margin: 2rem 0; position: relative;}
 main { margin-bottom: 2rem; }
 footer {
   /* border: 1px solid violet; */
@@ -211,3 +254,27 @@ fieldset legend {
   box-shadow: black 0.15rem 0.125rem 0.25rem;
 }
 /* End Debug Stuff */
+
+/* Desktop Styles */
+
+@media (min-width: 700px) {
+  :root {
+
+    /* Schriftgrössen Faktor 1.5 */
+    --fs-mini: 1.125rem;
+    --fs-norm: 1.5rem;
+    --fs-midi: 1.875rem;
+    --fs-maxi: 2.25rem;
+    --fs-supi: 3.75rem;
+  }
+
+  /* Layout */
+  body {
+    align-items: center;
+
+  }
+  header, main, footer {
+    max-width: 800px;
+  }
+
+}
