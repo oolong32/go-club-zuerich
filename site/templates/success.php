@@ -13,7 +13,7 @@
 
    <p><?php echo t('backToTournament') ?></p>
 
-    <aside class="template-marker">Template: Success</aside>
+    <?php snippet('template-debug', ['template' => 'success']) ?>
   </main>
 
 <?php snippet('footer') ?>

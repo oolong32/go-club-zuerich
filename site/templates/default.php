@@ -3,7 +3,8 @@
   <main>
     <?= $page->text()->kirbytext() ?>
 
-    <aside class="template-marker">Template: Default</aside>
+    <?php snippet('template-debug', ['template' => 'default']) ?>
+
   </main>
 
 <?php snippet('footer') ?>

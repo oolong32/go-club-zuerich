@@ -54,7 +54,7 @@
   <!-- Registered Players -->
   <?php snippet('tournament-players', ['players' => $page->childrenAndDrafts()]); ?>
 
-  <aside class="template-marker">Template: Turnier</aside>
+  <?php snippet('template-debug', ['template' => 'tournament']) ?>
 </main>
 
 <?php snippet('footer') ?>

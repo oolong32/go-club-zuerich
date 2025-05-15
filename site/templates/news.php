@@ -13,6 +13,6 @@
 
     <?php endforeach ?>
 
-    <aside class="template-marker">Template: News</aside>
+    <?php snippet('template-debug', ['template' => 'news']) ?>
     </main>
 <?php snippet('footer') ?>
