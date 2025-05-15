@@ -57,6 +57,8 @@ Icon
 # Development Environment
 .ddev
 .herd
+#Kirby config
+env.php
 # Josefs localhost config
 /site/config/config.go-club-zuerich.ddev.site.php
 
