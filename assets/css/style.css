@@ -274,6 +274,7 @@ fieldset legend {
 
   }
   header, main, footer {
+    width: 100%;
     max-width: 800px;
   }
 

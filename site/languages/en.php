@@ -30,5 +30,7 @@ return [
     'ifQuestions' => 'If you have any questions you can answer to this mail',
     'lookingForward' => 'We are looking forward to seeing you',
     'backToTournament' => 'Back to the <a href="/en/tournament">Tournament Page</a>',
+    'privacyPolicy' => 'Privacy Policy',
+    'ppSlug' => 'privacy-policy',
   ],
 ];

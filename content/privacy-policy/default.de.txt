@@ -12,7 +12,7 @@ Text:
 
 Gültig ab: 15. Mai 2025
 
-Der Go Club Zürich («wir», «uns» oder «unser») betreibt die Website (link: https://zurich.swissgo.org text: zurich.swissgo.org) (den "Dienst").
+Der Go Club Zürich («wir», «uns» oder «unser») betreibt die Website (link: https://zurich.swissgo.org text: zurich.swissgo.org) (den «Dienst»).
 
 Diese Seite informiert dich über unsere Richtlinien bezüglich der Erhebung, Nutzung und Offenlegung personenbezogener Daten, wenn du unseren Dienst nutzt, sowie über die Wahlmöglichkeiten, die du in Bezug auf diese Daten hast.
 
@@ -88,12 +88,14 @@ Der Go Club Zürich kann deine personenbezogenen Daten in gutem Glauben offenleg
 #### Datensicherheit
 
 Die Sicherheit deiner Daten ist uns wichtig. Doch denke daran, dass keine Methode der Übertragung über das Internet oder der elektronischen Speicherung 100% sicher ist. Wir bemühen uns, wirtschaftlich vertretbare Mittel zum Schutz deiner personenbezogenen Daten einzusetzen, können jedoch deren absolute Sicherheit nicht garantieren.
-Dienstleister
 
-Wir können Drittunternehmen und Einzelpersonen damit beauftragen, unseren Dienst zu ermöglichen ("Dienstleister"), den Dienst in unserem Namen bereitzustellen, dienstbezogene Leistungen zu erbringen oder uns bei der Analyse der Nutzung unseres Dienstes zu unterstützen.
+#### Dienstleister
+
+Wir können Drittunternehmen und Einzelpersonen («Dienstleister») damit beauftragen, unseren Dienst zu ermöglichen, den Dienst in unserem Namen bereitzustellen, dienstbezogene Leistungen zu erbringen oder uns bei der Analyse der Nutzung unseres Dienstes zu unterstützen.
 
 Diese Dritten haben nur Zugriff auf deine personenbezogenen Daten, um diese Aufgaben in unserem Auftrag auszuführen, und sind verpflichtet, sie nicht offenzulegen oder für andere Zwecke zu verwenden.
-Analytik
+
+#### Analytik
 
 Wir können Drittanbieter damit beauftragen, die Nutzung unseres Dienstes zu überwachen und zu analysieren.
 
