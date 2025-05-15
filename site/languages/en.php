@@ -6,6 +6,7 @@ return [
   'direction' => 'ltr',
   'locale'    => 'en_GB',
   'name'      => 'English',
+  'url' => '/',
   'translations' => [
     'strength' => 'Strength',
     'age' => 'Age',
