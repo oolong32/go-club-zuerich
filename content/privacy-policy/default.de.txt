@@ -1,0 +1,119 @@
+Title: Datenschutzerklärung
+
+----
+
+Slug: datenschutzerklaerung
+
+----
+
+Text:
+
+### Datenschutzerklärung
+
+Gültig ab: 15. Mai 2025
+
+Der Go Club Zürich («wir», «uns» oder «unser») betreibt die Website (link: https://zurich.swissgo.org text: zurich.swissgo.org) (den "Dienst").
+
+Diese Seite informiert dich über unsere Richtlinien bezüglich der Erhebung, Nutzung und Offenlegung personenbezogener Daten, wenn du unseren Dienst nutzt, sowie über die Wahlmöglichkeiten, die du in Bezug auf diese Daten hast.
+
+Wir verwenden deine Daten, um den Dienst bereitzustellen und zu verbessern. Durch die Nutzung des Dienstes stimmst du der Erhebung und Nutzung von Informationen gemäß dieser Richtlinie zu. Sofern in dieser Datenschutzerklärung nicht anders definiert, haben die in dieser Datenschutzerklärung verwendeten Begriffe die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die unter (link: https://zurich.swissgo.org text: zurich.swissgo.org) abrufbar sind.
+
+#### Erhebung und Nutzung von Informationen
+
+Wir erfassen verschiedene Arten von Informationen für unterschiedliche Zwecke, um unseren Dienst für dich bereitzustellen und zu verbessern.
+
+#### Arten der erhobenen Daten
+
+##### Personenbezogene Daten
+
+Während der Nutzung unseres Dienstes können wir dich bitten, uns bestimmte personenbezogene Daten zur Verfügung zu stellen, die dazu verwendet werden können, dich zu kontaktieren oder zu identifizieren («personenbezogene Daten»). Zu den personenbezogenen Daten können unter anderem gehören:
+
+- E-Mail-Adresse
+- Vor- und Nachname
+- Telefonnummer
+- Cookies und Nutzungsdaten
+
+##### Nutzungsdaten
+
+Wir können auch Informationen darüber erfassen, wie der Dienst aufgerufen und genutzt wird («Nutzungsdaten»). Diese Nutzungsdaten können Informationen wie die IP-Adresse deines Computers, Browsertyp, Browserversion, die Seiten unseres Dienstes, die du besuchst, Uhrzeit und Datum deines Besuchs, die auf diesen Seiten verbrachte Zeit, eindeutige Gerätekennungen und andere Diagnosedaten umfassen.
+
+##### Tracking- & Cookie-Daten
+
+Wir verwenden Cookies und ähnliche Tracking-Technologien, um die Aktivitäten auf unserem Dienst zu verfolgen und bestimmte Informationen zu speichern.
+
+Cookies sind Dateien mit einer kleinen Datenmenge, die eine anonyme eindeutige Kennung enthalten können. Cookies werden von einer Website an deinen Browser gesendet und auf deinem Gerät gespeichert. Weitere verwendete Tracking-Technologien sind Beacons, Tags und Skripte zur Erfassung und Verfolgung von Informationen sowie zur Verbesserung und Analyse unseres Dienstes.
+
+Du kannst deinen Browser anweisen, alle Cookies abzulehnen oder anzugeben, wenn ein Cookie gesendet wird. Wenn du jedoch keine Cookies akzeptierst, kannst du möglicherweise einige Teile unseres Dienstes nicht nutzen.
+
+Beispiele für von uns verwendete Cookies:
+
+- Session-Cookies. Wir verwenden Session-Cookies, um unseren Dienst zu betreiben.
+- Präferenz-Cookies. Wir verwenden Präferenz-Cookies, um deine Präferenzen und verschiedene Einstellungen zu speichern.
+- Sicherheits-Cookies. Wir verwenden Sicherheits-Cookies für Sicherheitszwecke.
+
+#### Nutzung der Daten
+
+Der Go Club Zürich verwendet die gesammelten Daten für verschiedene Zwecke:
+
+- Zur Bereitstellung und Wartung des Dienstes
+- Um dich über Änderungen an unserem Dienst zu informieren
+- Um dir die Teilnahme an interaktiven Funktionen unseres Dienstes zu ermöglichen, wenn du dies wünschst
+- Zur Bereitstellung von Kundenbetreuung und Support
+- Zur Bereitstellung von Analysen oder wertvollen Informationen zur Verbesserung des Dienstes
+- Zur Überwachung der Nutzung des Dienstes
+- Zur Erkennung, Verhinderung und Behebung technischer Probleme
+
+#### Datenübertragung
+
+Deine Informationen, einschließlich personenbezogener Daten, können an – und auf – Rechner übertragen und dort gespeichert werden, die sich außerhalb deines Bundeslandes, deiner Provinz, deines Landes oder einer anderen staatlichen Gerichtsbarkeit befinden, wo die Datenschutzgesetze möglicherweise von denen deiner Gerichtsbarkeit abweichen.
+
+Wenn du dich außerhalb der Schweiz befindest und dich entscheidest, Informationen an uns zu übermitteln, beachte bitte, dass wir die Daten, einschließlich personenbezogener Daten, in die Schweiz übertragen und dort verarbeiten.
+
+Deine Zustimmung zu dieser Datenschutzerklärung und die anschließende Übermittlung dieser Informationen stellen deine Einwilligung zu dieser Übertragung dar.
+
+Der Go Club Zürich wird alle vernünftigerweise notwendigen Maßnahmen ergreifen, um sicherzustellen, dass deine Daten sicher und in Übereinstimmung mit dieser Datenschutzerklärung behandelt werden. Eine Übertragung deiner personenbezogenen Daten an eine Organisation oder ein Land erfolgt nur, wenn angemessene Kontrollen vorhanden sind, einschließlich der Sicherheit deiner Daten und anderer persönlicher Informationen.
+
+#### Offenlegung von Daten
+
+##### Gesetzliche Anforderungen
+
+Der Go Club Zürich kann deine personenbezogenen Daten in gutem Glauben offenlegen, wenn dies erforderlich ist, um:
+
+- einer gesetzlichen Verpflichtung nachzukommen
+- die Rechte oder das Eigentum von Yunguseng Dojang zu schützen und zu verteidigen
+- mögliches Fehlverhalten im Zusammenhang mit dem Dienst zu verhindern oder zu untersuchen
+- die persönliche Sicherheit der Nutzer des Dienstes oder der Öffentlichkeit zu schützen
+- sich gegen rechtliche Haftung zu verteidigen
+
+#### Datensicherheit
+
+Die Sicherheit deiner Daten ist uns wichtig. Doch denke daran, dass keine Methode der Übertragung über das Internet oder der elektronischen Speicherung 100% sicher ist. Wir bemühen uns, wirtschaftlich vertretbare Mittel zum Schutz deiner personenbezogenen Daten einzusetzen, können jedoch deren absolute Sicherheit nicht garantieren.
+Dienstleister
+
+Wir können Drittunternehmen und Einzelpersonen damit beauftragen, unseren Dienst zu ermöglichen ("Dienstleister"), den Dienst in unserem Namen bereitzustellen, dienstbezogene Leistungen zu erbringen oder uns bei der Analyse der Nutzung unseres Dienstes zu unterstützen.
+
+Diese Dritten haben nur Zugriff auf deine personenbezogenen Daten, um diese Aufgaben in unserem Auftrag auszuführen, und sind verpflichtet, sie nicht offenzulegen oder für andere Zwecke zu verwenden.
+Analytik
+
+Wir können Drittanbieter damit beauftragen, die Nutzung unseres Dienstes zu überwachen und zu analysieren.
+
+#### Links zu anderen Websites
+
+Unser Dienst kann Links zu anderen Websites enthalten, die nicht von uns betrieben werden. Wenn du auf einen Link eines Drittanbieters klickst, wirst du zu dessen Website weitergeleitet. Wir empfehlen dir dringend, die Datenschutzerklärung jeder Website, die du besuchst, zu lesen.
+
+Wir haben keine Kontrolle über und übernehmen keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder -praktiken von Websites oder Diensten Dritter.
+
+#### Änderungen an dieser Datenschutzerklärung
+
+Wir können unsere Datenschutzerklärung von Zeit zu Zeit aktualisieren. Wir werden dich über Änderungen informieren, indem wir die neue Datenschutzerklärung auf dieser Seite veröffentlichen.
+
+Wir werden dich vor Inkrafttreten der Änderung per E-Mail und/oder durch einen gut sichtbaren Hinweis auf unserem Dienst informieren und das «Gültigkeitsdatum» am Anfang dieser Datenschutzerklärung aktualisieren.
+
+Du solltest diese Datenschutzerklärung regelmäßig auf Änderungen überprüfen. Änderungen an dieser Datenschutzerklärung treten in Kraft, sobald sie auf dieser Seite veröffentlicht wurden.
+Kontakt
+
+Wenn du Fragen zu dieser Datenschutzerklärung hast, kontaktiere uns bitte per E-Mail: (email: zuerigo@gmail.com)
+
+----
+
+Naviname: datenschutzerklärung
