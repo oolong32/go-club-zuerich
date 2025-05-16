@@ -33,5 +33,10 @@ return [
     'privacyPolicy' => 'Privacy Policy',
     'ppSlug' => 'privacy-policy',
     'legend' => 'Legend',
+    'results' => 'Results',
+    'black' => 'black',
+    'white' => 'white',
+    'lost' => 'lost',
+    'won' => 'won',
   ],
 ];

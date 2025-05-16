@@ -6,7 +6,6 @@
   <tr>
     <th>Name</th>
     <th><?php echo t('strength') ?></th>
-    <th>Club</th>
   </tr>
 </thead>
 <tbody>
@@ -15,7 +14,6 @@
     <tr>
       <td class="name"><?= $player->name() ?></td>
       <td class="rank"><?= $player->rank() ?></td>
-      <td class="cub"><?= $player->club() ?></td>
     </tr>
     <?php endif ?>
   <?php endforeach ?>

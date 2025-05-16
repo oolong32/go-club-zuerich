@@ -21,6 +21,9 @@
   </aside>
   <?php endif ?>
 
+  <!-- Enter Result -->
+  <?php snippet('club-tournament-submit-result'); ?>
+
   <!-- Tournament Table -->
   <?php snippet('club-tournament-table'); ?>
 

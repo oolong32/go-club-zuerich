@@ -33,5 +33,10 @@ return [
     'privacyPolicy' => 'Datenschutzerklärung',
     'ppSlug' => 'de/datenschutzerklaerung',
     'legend' => 'Legende',
+    'results' => 'Resultate',
+    'black' => 'Schwarz',
+    'white' => 'Weiss',
+    'lost' => 'verloren',
+    'won' => 'gewonnen',
   ]
 ];

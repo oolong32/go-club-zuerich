@@ -115,6 +115,11 @@ h1, h5, h6, p, ul, aside, form, table, figure { margin-bottom: 1rem; }
 h2 { margin-bottom: 2rem; }
 h3 { margin-top: 2rem; margin-bottom: 1rem; }
 
+span.emoji {
+  display: inline-block;
+  transform: scale(0.9) translateY(0.125rem);
+}
+
 /* End Typography */
 
 /* Layout */

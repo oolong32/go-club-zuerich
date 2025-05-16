@@ -1,5 +1,7 @@
 <?php
 
+// Club Turnier Controller
+
 // aus dem Kirby-Kochbuch
 // https://getkirby.com/docs/cookbook/forms/creating-pages-from-frontend
 // generiert einen Eintrag für jede Person, die sich registriert,
@@ -20,19 +22,18 @@ return function ($kirby, $page) {
 
     $data = [
       'name'       => get('name'),
-      'email'      => get('email'),
       'rank'       => get('rank'),
     ];
 
     $rules = [
       'name'  => ['required'],
-      'email' => ['required', 'email'],
+      'rank'       => get('rank'),
     ];
 
     // lässt sich folgendes mit translation-var übersetzen?
     $messages = [
       'name'  => 'Please enter your <a href="#name">name</a>',
-      'email' => 'Please enter a valid <a href="#email">email address</a>',
+      'rank' => 'Please enter a valid <a href="#email">rank</a>',
     ];
 
     // some of the data is invalid
@@ -44,6 +45,7 @@ return function ($kirby, $page) {
       $kirby->impersonate('kirby');
 
       // everything is ok, let’ send a confirmation mail
+      // mail nicht nötig,
       try {
         $kirby->email([
           'template' => 'confirmation',
@@ -55,8 +57,6 @@ return function ($kirby, $page) {
             'name' => $data['name']
             ]
           ]);
-
-          // Was noch fehlt: Info-Mail an Lorenz, mit $data['remarks']
 
         } catch (Exception $error) {
           if (option('debug')):
