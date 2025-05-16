@@ -242,8 +242,8 @@ fieldset legend {
 /* Debug Stuff */
 .template-marker {
   display: inline-block;
-  position: absolute;
-  top: 1rem;
+  position: fixed;
+  bottom: 1rem;
   right: 1rem;
   background: papayawhip;
   border: 1px solid hotpink;
