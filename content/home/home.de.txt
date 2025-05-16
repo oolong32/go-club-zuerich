@@ -4,6 +4,8 @@ Title: Home
 
 Text:
 
+Der zürcher Treffpunkt für Go-Spieler:innen.
+
 ### Clublokal
 
 (link: https://www.park-platz.org/de/spaces/wuerfel text: Würfel) im Park Platz («Parki»), (link: https://s.geo.admin.ch/qfi5tb5o4tct text: Wasserwerkstrasse 101)

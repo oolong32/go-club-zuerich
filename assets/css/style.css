@@ -40,7 +40,7 @@ nav .page-navigation li a:hover {
 nav .language-switch {
   position: absolute;
   display: inline-block;
-  transform: rotate(-12deg) translateX(5.5rem);
+  transform: rotate(-12deg) translate(-11rem, -4rem);
   top: 0;
   right: 0;
   list-style: none;

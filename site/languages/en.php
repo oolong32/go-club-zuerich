@@ -32,5 +32,6 @@ return [
     'backToTournament' => 'Back to the <a href="/en/tournament">Tournament Page</a>',
     'privacyPolicy' => 'Privacy Policy',
     'ppSlug' => 'privacy-policy',
+    'legend' => 'Legend',
   ],
 ];
