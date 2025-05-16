@@ -11,13 +11,11 @@
 </thead>
 <tbody>
   <?php foreach ($players as $player): ?>
-    <?php if ($player->visibility() == 'visible'): ?>
-    <tr>
-      <td class="name"><?= $player->name() ?></td>
-      <td class="rank"><?= $player->rank() ?></td>
-      <td class="cub"><?= $player->club() ?></td>
-    </tr>
-    <?php endif ?>
+  <tr>
+    <td class="name"><?= $player->name() ?></td>
+    <td class="rank"><?= $player->rank() ?></td>
+    <td class="cub"><?= $player->club() ?></td>
+  </tr>
   <?php endforeach ?>
 </tbody>
 </table>

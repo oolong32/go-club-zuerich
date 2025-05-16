@@ -26,7 +26,6 @@ return function ($kirby, $page) {
       'club'       => get('club'),
       'workshop'   => get('workshop'),
       'remarks'    => get('remarks'),
-      'visibility' => get('visibility') ? 'hidden' : 'visible'
     ];
 
     $rules = [
