@@ -102,8 +102,13 @@ h5 {
   font-size: var(--fs-norm);
   font-style: italic;
 }
-p, li { font-size: var(--fs-norm); }
+p, li, label, input, select, input[type="checkbox"], fieldset legend, textarea, td, th { font-size: var(--fs-norm); }
 small { font-size: var(--fs-mini); }
+input[type="checkbox"],
+input[type="radio"] {
+  width: var(--fs-mini);
+  height: var(--fs-mini);
+}
 
 h1, h5, h6, p, ul, aside, form, table, figure { margin-bottom: 1rem; }
 

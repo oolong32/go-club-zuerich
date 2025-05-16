@@ -73,10 +73,11 @@
   <input id="club" name="club" value="<?= $data['club'] ?? null ?>">
 </section>
 
+<!--
 <section class="form-element">
-  <input style="margin: 0 0 0.25rem;" type="checkbox" name="visibility" value="incognito" <?= (isset($data['visibility']) && $data['visibility'] == "incognito") ? "checked" : null ?>>
-  <label><?php echo t('incognito') ?>.</label>
+  <label><input style="margin: 0 0 0.25rem;" type="checkbox" name="visibility" value="incognito" <?= (isset($data['visibility']) && $data['visibility'] == "incognito") ? "checked" : null ?>> <?php echo t('incognito') ?>.</label>
 </section>
+-->
 
 <h3>Workshop</h3>
 <section class="form-element">
