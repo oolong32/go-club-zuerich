@@ -3,6 +3,7 @@
   line-height: 1.4;
 
   /* Schriftgrössen */
+  --fs-mikro: 0.625;
   --fs-mini: 0.75rem;
   --fs-norm: 1rem;
   --fs-midi: 1.25rem;
@@ -40,7 +41,7 @@ nav .page-navigation li a:hover {
 nav .language-switch {
   position: absolute;
   display: inline-block;
-  transform: rotate(-12deg) translate(-11rem, -4rem);
+  transform: rotate(-12deg) translate(-1rem, -2rem);
   top: 0;
   right: 0;
   list-style: none;
@@ -155,7 +156,7 @@ main article.news-item h3 {
 
 /* timetable, players-table */
 
-table {
+#players-table {
   /* border-spacing: 0.125rem; */
   table-layout: fixed;
   border: 1px solid gray;
@@ -211,6 +212,40 @@ table {
 #timetable p span:nth-child(3) { text-align: right; }
 #timetable p span:nth-child(2),
 #timetable p span:nth-child(4) { font-variant-numeric: ordinal; }
+
+#club-tournament-table {
+  border: none;
+  table-layout: fixed;
+  text-transform: capitalize;
+}
+
+#club-tournament-table td {
+  border: 1px solid black;
+  padding: 0.5rem;
+  line-height: 1;
+}
+#club-tournament-table td.empty {
+  background: #ccc;
+}
+#club-tournament-table td.invisible {
+  border: none;
+}
+#club-tournament-table td span.pairing {
+  font-size: var(--fs-mikro);
+}
+#club-tournament-table th {
+  font-size: var(--fs-mini)
+}
+
+#club-tournament-table th.column-head {
+  padding-right: 0.5rem;
+  text-align: center;
+}
+#club-tournament-table th.row-head {
+  padding-right: 0.5rem;
+  text-align: right;
+  vertical-align: middle;
+}
 
 /* End Layout */
 
@@ -271,6 +306,7 @@ fieldset legend {
   :root {
 
     /* Schriftgrössen Faktor 1.5 */
+    --fs-mikro: 1rem;
     --fs-mini: 1.125rem;
     --fs-norm: 1.5rem;
     --fs-midi: 1.875rem;
@@ -286,6 +322,9 @@ fieldset legend {
   header, main, footer {
     width: 100%;
     max-width: 800px;
+  }
+  nav .language-switch {
+    transform: rotate(-12deg) translate(-11rem, -4rem);
   }
 
 }

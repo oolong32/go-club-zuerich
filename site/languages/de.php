@@ -36,6 +36,7 @@ return [
     'results' => 'Resultate',
     'black' => 'Schwarz',
     'white' => 'Weiss',
+    'toPlay' => 'noch zu spielen',
     'lost' => 'verloren',
     'won' => 'gewonnen',
   ]

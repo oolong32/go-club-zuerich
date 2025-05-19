@@ -36,6 +36,7 @@ return [
     'results' => 'Results',
     'black' => 'black',
     'white' => 'white',
+    'toPlay' => 'yet to play',
     'lost' => 'lost',
     'won' => 'won',
   ],
