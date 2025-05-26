@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Gagg
+
+----
+
+Playerb: Fuzzi
+
+----
+
+Tags: Gagg, Fuzzi
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: QVGwVTMRWQwzCj7S
+
+----
+
+Text: 

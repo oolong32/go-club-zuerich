@@ -1,19 +1,22 @@
 <?php
 
-return [
+return array(
   'code'      => 'de',
   'default'   => false,
   'direction' => 'ltr',
   'locale'    => 'de_CH',
   'name'      => 'Deutsch',
-  'translations' => [
-    'strength' => 'Spielstärke',
+  'translations' => array(
+    'test' => 'Dies ist ein Test.',
+    'game' => 'Spiel',
+    'strength' => 'Rang',
     'age' => 'Alter',
     'pleaseChoose' => 'bitte wählen',
     'cityClub' => 'Ort/Club',
     'incognito' => 'Inkognito: Auswählen, wenn du nicht in der <a href="#registered-players">Liste der registrierten Spieler</a> stehen möchtest',
     'register' => 'anmelden',
-    'registerdPlayers' => 'Anmeldungen',
+    'participants' => 'Teilnehmer*innen',
+    'noParticipantsYet' => 'Es gibt noch keine Anmeldungen',
     'remarks' => 'Mitteilungen',
     'yes' => 'ja',
     'no' => 'nein',
@@ -33,11 +36,25 @@ return [
     'privacyPolicy' => 'Datenschutzerklärung',
     'ppSlug' => 'de/datenschutzerklaerung',
     'legend' => 'Legende',
+    'result' => 'Resultat',
     'results' => 'Resultate',
+    'pairingResults' => 'Pairing und Resultate',
     'black' => 'Schwarz',
     'white' => 'Weiss',
     'toPlay' => 'noch zu spielen',
     'lost' => 'verloren',
     'won' => 'gewonnen',
-  ]
-];
+    'jigo' => 'Jigo',
+    'cancel' => 'abbrechen',
+    'points' => 'Punkte',
+    'whoWon' => 'Wer hat gewonnen?',
+    'submitResult' => 'Resultat erfassen',
+    'submit' => 'erfassen',
+    'thankYou' => 'Danke',
+    'youIn' => 'du bist dabei',
+    'enterName' => 'Bitte gib deinen Namen an.',
+    'enterStrength' => 'Bitte gib deine Spielstärke an.',
+    'clubTournamentRegistered' => 'du bist zum Club-Tournier angemeldet.',
+    'notEnoughPlayers' => 'Für eine Tabelle gibt es noch nicht genug angemeldete Spieler*innen.'
+  )
+);

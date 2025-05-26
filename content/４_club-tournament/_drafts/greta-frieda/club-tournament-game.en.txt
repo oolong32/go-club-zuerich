@@ -1,0 +1,33 @@
+Text: 
+
+----
+
+Naviname: 
+
+----
+
+Type: club-tournament-game
+
+----
+
+Playera: greta
+
+----
+
+Playerb: Frieda
+
+----
+
+Tags: greta, Frieda
+
+----
+
+Played: 1
+
+----
+
+Result: greta
+
+----
+
+Uuid: wxur6QVehdciMLl8

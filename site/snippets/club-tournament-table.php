@@ -1,42 +1,62 @@
+<h3 id="results"><?= t('pairingResults') ?></h3>
+<?php if (count($players) < 2) : ?>
+  <p><?= t('notEnoughPlayers') ?></p>
+<?php else : ?>
+    <?php if ( isset($resultSuccess['message']) ) : ?>
+      <p style="background: palegreen"><?= $resultSuccess['message'] ?></p>
+    <?php endif ?>
 
-<h3><?php echo t('results') ?></h3>
-
-    <?php $players = array('Lorenz', 'Josef', 'Dan', 'Daniel', 'Eric'); ?>
-
-    <?php if (sizeof($players) > 1) : ?>
-    <table id="club-tournament-table" style="text-align: center;">
-    <?php $num_players = sizeof($players) ?>
-
+    <?php if (count($players) > 1) : ?>
+    <table id="pairing-table" style="text-align: center;">
     <thead>
       <tr>
         <td class="invisible"></td>
-    <?php foreach($players as $colHead) : ?>
-      <th scope="col" class="column-head"><?= $colHead ?></th>
-    <?php endforeach?>
+        <?php foreach ($players as $col) : ?>
+          <th scope="col" class="column-head"><?= $col->name() ?></th>
+        <?php endforeach?>
       </tr>
     </thead>
-
-    <?php foreach($players as $rowHead) : ?>
+    <?php foreach ($players as $row) : ?>
     <tr>
-      <th scope="row" class="row-head"><?= $rowHead ?></th>
-      <?php foreach($players as $cell) : ?>
-        <?php if ($rowHead == $cell) :?>
-        <td class="empty"></td>
+      <th scope="row" class="row-head"><?= $row->name() ?></th>
+      <?php foreach ($players as $col) : ?>
+        <?php if ($row->id() == $col->id()) :?>
+          <td class="empty"></td>
         <?php else: ?>
-        <td><span class="result">⌛️<span><br><span class="pairing"><?= $rowHead . '–'. $cell ?></span></td>
+          <!-- display game state/result -->
+           <?php $played = false ?> <?# muss aus page kommen #?>
+           <td class="result-cell <?= $played ? 'game-played' : 'result-pending' ?>"
+            data-player-a="<?= $row->name() ?>"
+            data-player-b="<?= $col->name()?>" >
+            <?php snippet('club-tournament-table-result', array(
+              'playerA' => $row->name(),
+              'playerB' => $col->name(),
+              'played' => false,
+              'win' => false,
+              'jigo' => false,
+            )) ?>
+          <!-- submit result form -->
+          <?php snippet('club-tournament-submit-result-form', array(
+            'playerA' => $row->name(),
+            'playerB' => $col->name(),
+            'playerAID' => $row->uuid(),
+            'playerBID' => $col->uuid(),
+            )) ?>
+          </td>
         <?php endif ?>
       <?php endforeach?>
     </tr>
     <?php endforeach?>
     <?php endif ?>
-
   </table>
-
-  <aside aria-labelledby="legende-title">
-    <h3 id="legende-title"><?php echo t('legend') ?></h3>
+  <hr>
+  <aside id="pairing-table-legend" aria-labelledby="legende-title">
+    <h4 id="legende-title"><?= t('legend') ?></h4>
     <ul style="list-style: none; padding: 0;">
-    <li><span class="emoji">⌛️</span>️ <?php echo t('toPlay') ?></li>
-    <li><span class="emoji">⚫</span>️ <?php echo t('lost') ?></li>
-    <li><span class="emoji">⚪</span>️ <?php echo t('won') ?></li>
+    <li><span class="emoji">⌛️</span>️ <?= t('toPlay') ?></li>
+    <li><span class="emoji">⚪</span>️ <?= t('won') ?></li>
+    <li><span class="emoji">⚫</span>️ <?= t('lost') ?></li>
+    <li><span class="emoji">💜</span>️ <?= t('jigo') ?></li>
   </ul>
 </aside>
+<?php endif ?>

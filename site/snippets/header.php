@@ -9,6 +9,7 @@
   <?= css('/assets/css/reset.css') ?>
   <?= css('/assets/css/fonts.css') ?>
   <?= css('/assets/css/style.css') ?>
+  <?= css('/assets/css/print.css') ?>
 </head>
 
 <body>

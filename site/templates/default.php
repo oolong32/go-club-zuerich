@@ -3,7 +3,7 @@
   <main>
     <?= $page->text()->kirbytext() ?>
 
-    <?php snippet('template-debug', ['template' => 'default']) ?>
+    <?php snippet('template-debug', array('template' => 'default')) ?>
 
   </main>
 

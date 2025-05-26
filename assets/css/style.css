@@ -3,12 +3,12 @@
   line-height: 1.4;
 
   /* Schriftgrössen */
-  --fs-mikro: 0.625;
-  --fs-mini: 0.75rem;
-  --fs-norm: 1rem;
-  --fs-midi: 1.25rem;
-  --fs-maxi: 1.5rem;
-  --fs-supi: 2.5rem;
+  --fs-mikro: 0.625rem; /* 10px */
+  --fs-mini: 0.75rem;   /* 12px */
+  --fs-norm: 1rem;      /* 16px */
+  --fs-midi: 1.25rem;   /* 20px */
+  --fs-maxi: 1.5rem;    /* 24px */
+  --fs-supi: 2.5rem;    /* 40px */
 }
 
 /* Links */
@@ -118,7 +118,7 @@ h3 { margin-top: 2rem; margin-bottom: 1rem; }
 
 span.emoji {
   display: inline-block;
-  transform: scale(0.9) translateY(0.125rem);
+  transform: scale(0.9);
 }
 
 /* End Typography */
@@ -174,7 +174,7 @@ main article.news-item h3 {
 }
 
 #players-table tbody tr:nth-child(odd) {
-  background-color: #ddd;
+  background-color: #eee;
 }
 
 #players-table thead th:nth-child(1) {
@@ -213,43 +213,86 @@ main article.news-item h3 {
 #timetable p span:nth-child(2),
 #timetable p span:nth-child(4) { font-variant-numeric: ordinal; }
 
-#club-tournament-table {
+#club-tournament #pairing-table {
   border: none;
   table-layout: fixed;
   text-transform: capitalize;
+  margin: 1rem auto;
 }
 
-#club-tournament-table td {
+#club-tournament #pairing-table td {
   border: 1px solid black;
   padding: 0.5rem;
   line-height: 1;
 }
-#club-tournament-table td.empty {
-  background: #ccc;
+#club-tournament #pairing-table td.empty {
+  background: #eee;
 }
-#club-tournament-table td.invisible {
+#club-tournament #pairing-table td.invisible {
   border: none;
 }
-#club-tournament-table td span.pairing {
+#club-tournament #pairing-table td p.pairing {
   font-size: var(--fs-mikro);
 }
-#club-tournament-table th {
+
+#club-tournament #pairing-table th {
   font-size: var(--fs-mini)
 }
 
-#club-tournament-table th.column-head {
+#club-tournament #pairing-table th.column-head {
   padding-right: 0.5rem;
   text-align: center;
 }
-#club-tournament-table th.row-head {
+
+#club-tournament #pairing-table th.row-head {
   padding-right: 0.5rem;
   text-align: right;
   vertical-align: middle;
 }
 
+#club-tournament #pairing-table-legend,
+#club-tournament #pairing-table-legend ul {
+  display: flex;
+  align-items: baseline;
+}
+
+#club-tournament #pairing-table-legend h4,
+#club-tournament #pairing-table-legend ul li,
+#club-tournament #pairing-table-legend ul li {
+  font-size: var(--fs-mini);
+}
+#club-tournament #pairing-table-legend ul li {
+  margin-left: 0.5rem;
+}
+
+#club-tournament .result-form-toggle {
+  cursor: pointer;
+  display: inline-block;
+  border: 1px solid black;
+  background-color: white;
+  font-size: var(--fs-mikro);
+  line-height: 1;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+#club-tournament #players-table th:nth-child(2),
+#players-table td:nth-child(2) { /* Rank */
+  text-align: left;
+  padding-right: 2rem;
+}
+#club-tournament #players-table th:nth-child(3),
+#players-table td:nth-child(3) { /* Points */
+  text-align: right;
+  padding-right: 2rem;
+}
+
 /* End Layout */
 
-/* Form */
+/* Forms */
 
 section.form-element {
   margin-bottom: 1.5rem;
@@ -273,16 +316,90 @@ fieldset legend {
   line-height: 1.4; /* wtf? */
 }
 
+.success {
+  background: palegreen;
+  padding: 0.5rem;
+}
+
 .alert {
-  border: 1px solid red;
   background: pink;
-  padding: 1rem;
+  padding: 0.5rem;
 }
 .honey {
   position: absolute;
   left: -9999px;
 }
-/* End Form */
+
+/* Club Tournament Result Form */
+
+#club-tournament form.submit-result.hidden {
+  display: none;
+}
+
+#club-tournament form.submit-result {
+  position: fixed;
+  z-index: 12;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background: white;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#club-tournament form.submit-result .cancel-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+
+}
+#club-tournament form.submit-result h4,
+#club-tournament form.submit-result label,
+#club-tournament form.submit-result legend,
+#club-tournament form.submit-result button,
+#club-tournament form.submit-result select,
+#club-tournament form.submit-result input[type=submit] {
+  font-size: var(--fs-mini);
+  text-transform: none;
+}
+
+#club-tournament form.submit-result h4 {
+  margin-bottom: var(--fs-midi);
+}
+
+#club-tournament form.submit-result .radio-button-container {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  margin: var(--fs-mikro);
+}
+
+#club-tournament form.submit-result fieldset {
+  border: 1px solid black;
+  padding: calc(var(--fs-norm)/8) calc(var(--fs-norm)/2);
+}
+#club-tournament form.submit-result legend {
+  border: 1px solid black;
+  padding: calc(var(--fs-norm)/8) calc(var(--fs-norm)/2) calc(var(--fs-norm)/8);
+}
+
+#club-tournament form.submit-result input[type=radio] {
+  margin-left: 0;
+  margin-right: 0.25rem;
+}
+
+#club-tournament form.submit-result .radio-button-label {
+  transform: translateY(-0.125rem);
+  margin: 0;
+}
+
+/* End Club Tournament Result Form */
+
+/* End Forms */
 
 /* Debug Stuff */
 .template-marker {
@@ -306,12 +423,12 @@ fieldset legend {
   :root {
 
     /* Schriftgrössen Faktor 1.5 */
-    --fs-mikro: 1rem;
-    --fs-mini: 1.125rem;
-    --fs-norm: 1.5rem;
-    --fs-midi: 1.875rem;
-    --fs-maxi: 2.25rem;
-    --fs-supi: 3.75rem;
+    --fs-mikro: 1rem;    /* 16px */
+    --fs-mini: 1.125rem; /* 18px */
+    --fs-norm: 1.5rem;   /* 24px */
+    --fs-midi: 1.875rem; /* 30px */
+    --fs-maxi: 2.25rem;  /* 26px */
+    --fs-supi: 3.75rem;  /* 60px */
   }
 
   /* Layout */

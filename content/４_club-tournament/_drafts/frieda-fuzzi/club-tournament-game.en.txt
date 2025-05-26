@@ -1,0 +1,33 @@
+Text: 
+
+----
+
+Naviname: 
+
+----
+
+Type: club-tournament-game
+
+----
+
+Playera: Frieda
+
+----
+
+Playerb: Fuzzi
+
+----
+
+Tags: Frieda, Fuzzi
+
+----
+
+Played: 1
+
+----
+
+Result: Frieda
+
+----
+
+Uuid: pNj2oNgJDOhIOaCi

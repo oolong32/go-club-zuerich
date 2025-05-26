@@ -13,6 +13,6 @@
 
     <?php endforeach ?>
 
-    <?php snippet('template-debug', ['template' => 'news']) ?>
+    <?php snippet('template-debug', array('template' => 'news')) ?>
     </main>
 <?php snippet('footer') ?>

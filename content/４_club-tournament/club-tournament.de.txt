@@ -6,6 +6,16 @@ Text:
 
 Club Turnier jetzt!
 
+Folgende Regeln gelten für das Club-Turnier:
+
+- lorem
+- ipsum
+- hallo welt
+- gelten online spiele?
+- Alle Spiele müssen bis zum X.X. gespielt werden.
+
+Anmeldung bis … ?
+
 ----
 
 Naviname: club tournament

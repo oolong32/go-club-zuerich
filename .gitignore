@@ -65,3 +65,8 @@ env.php
 # don’t publish tournament player data
 # ? matches any character, i.e. a prefixed number
 /?_tournament/_drafts
+/?_club-tournament/_drafts
+
+# php cs fixer
+.php-cs-fixer.cache
+.php-cs-fixer.dist.php

@@ -4,7 +4,7 @@ Title: Registrierung abgeschlossen
 
 Text:
 
-Lieber {{ name }},
+Liebe*r {{ name }},
 Danke für deine Anmeldung zum **{{ turnier }}**.
 
 Du solltest in Kürze ein E-Mail zur Bestätigung erhalten.

@@ -1,0 +1,25 @@
+Text: 
+
+----
+
+Naviname: 
+
+----
+
+Name: greta
+
+----
+
+Rank: 8-Dan
+
+----
+
+Wins: 3
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: PXoVNVnTSeVLAHQb

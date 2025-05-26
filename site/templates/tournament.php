@@ -18,10 +18,10 @@
       <?php
       // Registration needs to be displayed as duration (from–to)
       $registrationStart = $page->registration()->toDate('H:i'); // z. B. "14:30"
-      $time = DateTime::createFromFormat('H:i', $registrationStart); // DateTime-Objekt erzeugen
-      $time->add(new DateInterval('PT45M')); // 45 Minuten hinzufügen
-      $registrationEnd = $time->format('H:i'); // Neue Zeit wieder als String
-      ?>
+$time = DateTime::createFromFormat('H:i', $registrationStart); // DateTime-Objekt erzeugen
+$time->add(new DateInterval('PT45M')); // 45 Minuten hinzufügen
+$registrationEnd = $time->format('H:i'); // Neue Zeit wieder als String
+?>
 
       <h4 class="timetable-heading day-1"><?= $page->day1()->toDate('l d.m.Y')?></h4>
       <p class="day-1 row-2"><span class="timetable-time"><?= $registrationStart ?>–<?= $registrationEnd ?></span> <span class="timetable-text">registration</span></p>
@@ -52,9 +52,9 @@
   <?php snippet('tournament-registration', compact('data')); ?>
 
   <!-- Registered Players -->
-  <?php snippet('tournament-players', ['players' => $page->childrenAndDrafts()]); ?>
+  <?php snippet('tournament-players', array('players' => $page->childrenAndDrafts())); ?>
 
-  <?php snippet('template-debug', ['template' => 'tournament']) ?>
+  <?php snippet('template-debug', array('template' => 'tournament')) ?>
 </main>
 
 <?php snippet('footer') ?>

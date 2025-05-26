@@ -6,7 +6,7 @@
   </ul>
 
   <ul class="language-switch">
-    <?php foreach($kirby->languages() as $language): ?>
+    <?php foreach ($kirby->languages() as $language): ?>
     <li<?php e($kirby->language() == $language, ' class="active"') ?>>
       <a href="<?= $page->url($language->code()) ?>" hreflang="<?php echo $language->code() ?>">
         <?= html($language->name()) ?>

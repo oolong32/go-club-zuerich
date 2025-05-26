@@ -1,16 +1,14 @@
 <?php snippet('header') ?>
 
-<main>
+<main id="club-tournament">
   <h2><?= $page->title() ?></h2>
 
   <section id="tournament-info">
     <?= $page->text()->kirbytext() ?>
-
   </section>
 
 <?php
   // if the form input is not valid, show a list of alerts
-  // ev. nicht nötig, weil required stuff schon im markup
   if ($alert): ?>
   <aside class="alert">
     <ul>
@@ -21,9 +19,6 @@
   </aside>
   <?php endif ?>
 
-  <!-- Enter Result -->
-  <?php snippet('club-tournament-submit-result'); ?>
-
   <!-- Tournament Table -->
   <?php snippet('club-tournament-table'); ?>
 
@@ -31,9 +26,9 @@
   <?php snippet('club-tournament-registration', compact('data')); ?>
 
   <!-- Registered Players -->
-  <?php snippet('club-tournament-players', ['players' => $page->childrenAndDrafts()]); ?>
+  <?php snippet('club-tournament-players'); ?>
 
-  <?php snippet('template-debug', ['template' => 'club-tournament']) ?>
+  <?php snippet('template-debug', array('template' => 'club-tournament')) ?>
 </main>
 
-<?php snippet('footer') ?>
+<?php snippet('footer', array('js' => array('club-tournament-handler'))) ?>

@@ -1,0 +1,33 @@
+Text: 
+
+----
+
+Naviname: 
+
+----
+
+Type: club-tournament-game
+
+----
+
+Playera: greta
+
+----
+
+Playerb: Fuzzi
+
+----
+
+Tags: greta, Fuzzi
+
+----
+
+Played: 1
+
+----
+
+Result: greta
+
+----
+
+Uuid: 5Lt5fnHy8pk2MyAu

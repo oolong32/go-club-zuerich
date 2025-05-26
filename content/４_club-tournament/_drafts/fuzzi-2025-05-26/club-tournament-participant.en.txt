@@ -1,0 +1,21 @@
+Name: Fuzzi
+
+----
+
+Rank: 7-Dan
+
+----
+
+Wins: 0
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: cMW3lPQv1lXXmIUg
+
+----
+
+Text: 

@@ -1,20 +1,23 @@
 <?php
 
-return [
+return array(
   'code'      => 'en',
   'default'   => true,
   'direction' => 'ltr',
   'locale'    => 'en_GB',
   'name'      => 'English',
   'url' => '/',
-  'translations' => [
-    'strength' => 'Strength',
+  'translations' => array(
+    'test' => 'This is a Test.',
+    'game' => 'Game',
+    'strength' => 'Rank',
     'age' => 'Age',
     'pleaseChoose' => 'please choose',
     'cityClub' => 'City/Club',
     'incognito' => 'Incognito: check if you don’t want to be on the <a href="#registered-players">registered players list</a>',
     'register' => 'register',
-    'registeredPlayers' => 'Registerd Players',
+    'participants' => 'Participants',
+    'noParticipantsYet' => 'There are no registered players yet.',
     'remarks' => 'Remarks',
     'yes' => 'yes',
     'no' => 'no',
@@ -33,11 +36,25 @@ return [
     'privacyPolicy' => 'Privacy Policy',
     'ppSlug' => 'privacy-policy',
     'legend' => 'Legend',
+    'result' => 'Result',
     'results' => 'Results',
+    'pairingResults' => 'Pairing and Results',
     'black' => 'black',
     'white' => 'white',
     'toPlay' => 'yet to play',
     'lost' => 'lost',
     'won' => 'won',
-  ],
-];
+    'jigo' => 'jigo',
+    'cancel' => 'cancel',
+    'points' => 'points',
+    'whoWon' => 'Who won the game?',
+    'submitResult' => 'Submit Result',
+    'submit' => 'submit',
+    'thankYou' => 'Thank you',
+    'youIn' => 'you’re in',
+    'enterName' => 'Please enter your name.',
+    'enterStrength' => 'Please enter your strength.',
+    'clubTournamentRegistered' => 'you registered for the Club-Tournament.',
+    'notEnoughPlayers' => 'There are not enough players yet to show a table.'
+  ),
+);
