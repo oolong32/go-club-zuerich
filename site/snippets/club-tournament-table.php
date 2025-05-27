@@ -23,25 +23,40 @@
         <?php if ($row->id() == $col->id()) :?>
           <td class="empty"></td>
         <?php else: ?>
+          <?php
+            $playerA = trim($row->name());
+            $playerB = trim($col->name());
+            $playerAID = $row->uuid();
+            $playerBID = $col->uuid();
+            $aGames = $games->filterBy('tags',  $playerA, ',');
+            $game = $aGames->filterBy('tags', $playerB, ',');
+            $gameId = $game->first()->uuid();
+            // get game info
+            $gameData = $games->find($gameId);
+            $played = $gameData->played()->toBool();
+            $result = trim($gameData->result());
+          ?>
+
           <!-- display game state/result -->
-           <?php $played = false ?> <?# muss aus page kommen #?>
-           <td class="result-cell <?= $played ? 'game-played' : 'result-pending' ?>"
-            data-player-a="<?= $row->name() ?>"
-            data-player-b="<?= $col->name()?>" >
-            <?php snippet('club-tournament-table-result', array(
-              'playerA' => $row->name(),
-              'playerB' => $col->name(),
-              'played' => false,
-              'win' => false,
-              'jigo' => false,
-            )) ?>
-          <!-- submit result form -->
-          <?php snippet('club-tournament-submit-result-form', array(
-            'playerA' => $row->name(),
-            'playerB' => $col->name(),
-            'playerAID' => $row->uuid(),
-            'playerBID' => $col->uuid(),
-            )) ?>
+           <td class="result-cell <?= $played ? 'game-played' : 'result-pending' ?>">
+            <?php if ($played) : ?>
+              <?php snippet('club-tournament-table-result', array(
+                'playerA' => $playerA,
+                'playerB' => $playerB,
+                'played' => $played,
+                'result' => $result,
+              )) ?>
+
+            <?php else: ?>
+              <button class="result-form-toggle">⌛️</button>
+              <?php snippet('club-tournament-submit-result-form', array(
+                'playerA' => $playerA,
+                'playerB' => $playerB,
+                'playerAID' => $playerAID,
+                'playerBID' => $playerBID,
+                'gameId'    => $gameId
+                )) ?>
+            <?php endif ?>
           </td>
         <?php endif ?>
       <?php endforeach?>

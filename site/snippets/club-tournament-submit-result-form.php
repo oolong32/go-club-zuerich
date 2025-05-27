@@ -1,8 +1,3 @@
-  <?php
-    $aGames = $games->filterBy('tags',  $playerA, ',');
-    $game = $aGames->filterBy('tags', $playerB, ',');
-    $gameId = $game->first()->uuid();
-  ?>
 
   <form class="submit-result hidden" action="<?= $page->url() ?>" method="POST">
     <p><?= $playerA ?>–<?= $playerB ?></p>
@@ -18,19 +13,21 @@
       <fieldset>
         <legend><?= t('whoWon') ?></legend>
 
+        <?php $id = $gameId->id(); ?>
+
         <div class="radio-button-container">
-          <input type="radio" id="player-A" name="result" value="<?= $playerA ?>" />
-          <label class="radio-button-label" for="player-A"><?= $playerA ?></label>
+          <input type="radio" id="player-A-<?= $id ?>" name="result" value="<?= $playerA ?>" />
+          <label class="radio-button-label" for="player-A-<?= $id ?>"><?= $playerA ?></label>
         </div>
 
         <div class="radio-button-container">
-          <input type="radio" id="player-B" name="result" value="<?= $playerB ?>" />
-          <label class="radio-button-label" for="player-B"><?= $playerB ?></label>
+          <input type="radio" id="player-B-<?= $id ?>" name="result" value="<?= $playerB ?>" />
+          <label class="radio-button-label" for="player-B-<?= $id ?>"><?= $playerB ?></label>
         </div>
 
         <div class="radio-button-container">
-          <input type="radio" id="jigo" name="result" value="jigo" checked />
-          <label class="radio-button-label" for="jigo"><?= t('jigo') ?></label>
+          <input type="radio" id="jigo-<?= $id ?>" name="result" value="jigo" checked />
+          <label class="radio-button-label" for="jigo-<?= $id ?>"><?= t('jigo') ?></label>
         </div>
       </fieldset>
 

@@ -53,12 +53,9 @@ return function ($kirby, $page) {
           $alert = $invalid;
 
       } else {
-        // data: name, rank
+        // submitted data: name, rank
         // if there is already one ore more players:
         // generate a game (file) for with each already existing player
-        // data: playerA (ID?), playerB (ID?), result
-        // UUID https://getkirby.com/docs/guide/uuids
-        // is there an id for the players, or should i work with the name?
 
         // authenticate as almighty
         $kirby->impersonate('kirby');
@@ -167,12 +164,6 @@ return function ($kirby, $page) {
           }
         }
       }
-
-      // do something with the data
-      // i.e. write the result into the right game!
-      // $pages->find() maybe i can find a game/player by uuid like this?
-
-      $resultSuccess = array( 'message' => t('test'));
   } // end 'submit-result' handler
 
   // return data to template

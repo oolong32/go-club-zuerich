@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Heiri
+
+----
+
+Playerb: greta
+
+----
+
+Tags: Heiri, greta
+
+----
+
+Played: 1
+
+----
+
+Result: jigo
+
+----
+
+Text: 
+
+----
+
+Naviname: 

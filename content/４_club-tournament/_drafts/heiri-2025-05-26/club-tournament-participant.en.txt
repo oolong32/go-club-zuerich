@@ -1,0 +1,21 @@
+Name: Heiri
+
+----
+
+Rank: 6-Kyu
+
+----
+
+Wins: 0
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: mzhjA8HnACglMGHk
+
+----
+
+Text: 

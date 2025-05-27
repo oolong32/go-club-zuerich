@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Heiri
+
+----
+
+Playerb: Frieda
+
+----
+
+Tags: Heiri, Frieda
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: QglHgceqq3cxaqRN
+
+----
+
+Text: 

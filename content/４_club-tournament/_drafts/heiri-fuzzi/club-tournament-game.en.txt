@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Heiri
+
+----
+
+Playerb: Fuzzi
+
+----
+
+Tags: Heiri, Fuzzi
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: yZkaHiDNBYpmsg4B
+
+----
+
+Text: 

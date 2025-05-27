@@ -1,3 +1,11 @@
+Text: 
+
+----
+
+Naviname: 
+
+----
+
 Type: club-tournament-game
 
 ----
@@ -14,16 +22,12 @@ Tags: Gagg, Fuzzi
 
 ----
 
-Played: 0
+Played: 1
 
 ----
 
-Result: 
+Result: jigo
 
 ----
 
 Uuid: QVGwVTMRWQwzCj7S
-
-----
-
-Text: 

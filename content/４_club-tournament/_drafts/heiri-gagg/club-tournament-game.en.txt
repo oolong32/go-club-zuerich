@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Heiri
+
+----
+
+Playerb: Gagg
+
+----
+
+Tags: Heiri, Gagg
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: byZw0flKcc6VTs8f
+
+----
+
+Text: 
