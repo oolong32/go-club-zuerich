@@ -132,9 +132,9 @@ return function ($kirby, $page) {
 
       // write to game entry: result
       // write to winner empty update points
-      $gamePage = $games->find($data['gameID']); // could try finding in games
-      // might be more efficient
+      $gamePage = $games->find($data['gameID']);
       if ($gamePage) {
+        $kirby->impersonate('kirby');
         try {
           // update game entry, mark as played
           $gamePageUpdated = $gamePage->update([
