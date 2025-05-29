@@ -2,15 +2,15 @@ Type: club-tournament-game
 
 ----
 
-Playera: Heiri
+Playera: Bauzy
 
 ----
 
-Playerb: greta
+Playerb: Rudi
 
 ----
 
-Tags: Heiri, greta
+Tags: Bauzy, Rudi
 
 ----
 
@@ -18,7 +18,7 @@ Played: 1
 
 ----
 
-Result: jigo
+Result: Rudi
 
 ----
 

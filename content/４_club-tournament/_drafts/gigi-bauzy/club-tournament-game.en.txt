@@ -10,15 +10,15 @@ Type: club-tournament-game
 
 ----
 
-Playera: greta
+Playera: Gigi
 
 ----
 
-Playerb: Frieda
+Playerb: Bauzy
 
 ----
 
-Tags: greta, Frieda
+Tags: Gigi, Bauzy
 
 ----
 
@@ -26,8 +26,8 @@ Played: 1
 
 ----
 
-Result: greta
+Result: Gigi
 
 ----
 
-Uuid: wxur6QVehdciMLl8
+Uuid: 7mzonALjx7Z85BHJ

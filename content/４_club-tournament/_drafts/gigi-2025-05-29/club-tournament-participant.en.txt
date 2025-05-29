@@ -6,15 +6,15 @@ Naviname:
 
 ----
 
-Name: greta
+Name: Gigi
 
 ----
 
-Rank: 8-Dan
+Rank: 10-Kyu
 
 ----
 
-Wins: 3
+Wins: 1
 
 ----
 
@@ -22,4 +22,4 @@ Type: club-tournament-player
 
 ----
 
-Uuid: PXoVNVnTSeVLAHQb
+Uuid: hdMrQrrcpvAQxyCg

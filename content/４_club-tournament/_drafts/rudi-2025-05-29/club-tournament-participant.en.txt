@@ -1,8 +1,8 @@
-Name: Fuzzi
+Name: Rudi
 
 ----
 
-Rank: 7-Dan
+Rank: 3-Dan
 
 ----
 
@@ -14,7 +14,7 @@ Type: club-tournament-player
 
 ----
 
-Uuid: cMW3lPQv1lXXmIUg
+Uuid: mm2WFEWZt7tbXYla
 
 ----
 

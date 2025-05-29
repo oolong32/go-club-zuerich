@@ -1,12 +1,12 @@
-Name: Gagg
+Name: Rudi
 
 ----
 
-Rank: 2-Kyu
+Rank: 3-Dan
 
 ----
 
-Wins: 0
+Wins: 1
 
 ----
 
@@ -14,8 +14,8 @@ Type: club-tournament-player
 
 ----
 
-Uuid: eb69vnuwEdYNMhKe
+Text: 
 
 ----
 
-Text: 
+Naviname: 

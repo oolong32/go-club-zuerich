@@ -2,15 +2,15 @@ Type: club-tournament-game
 
 ----
 
-Playera: Heiri
+Playera: Gigi
 
 ----
 
-Playerb: Gagg
+Playerb: Rudi
 
 ----
 
-Tags: Heiri, Gagg
+Tags: Gigi, Rudi
 
 ----
 
@@ -22,7 +22,7 @@ Result:
 
 ----
 
-Uuid: byZw0flKcc6VTs8f
+Uuid: p6ACVMXihmqI3W28
 
 ----
 

@@ -2,9 +2,6 @@
 <?php if (count($players) < 2) : ?>
   <p><?= t('notEnoughPlayers') ?></p>
 <?php else : ?>
-    <?php if ( isset($resultSuccess['message']) ) : ?>
-      <p style="background: palegreen"><?= $resultSuccess['message'] ?></p>
-    <?php endif ?>
 
     <?php if (count($players) > 1) : ?>
     <table id="pairing-table" style="text-align: center;">

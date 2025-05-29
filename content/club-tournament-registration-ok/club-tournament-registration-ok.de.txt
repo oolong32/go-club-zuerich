@@ -1,0 +1,9 @@
+Title: Club Turnier Anmeldung
+
+----
+
+Text:
+
+Du hast dich für das Club Turnier angemeldet.
+
+----

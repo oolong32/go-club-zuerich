@@ -1,0 +1,9 @@
+Title: Club Tournament Registration
+
+----
+
+Text:
+
+You’ve registered for the club tournament.
+
+----

@@ -1,9 +1,5 @@
 <h3 id="registration"><?= t('registration') ?></h3>
 
-  <?php if ( strlen($registrationSuccess) ) : ?>
-    <p class="success"><?= $registrationSuccess ?></p>
-  <?php endif ?>
-
 <form action="<?= $page->url() ?>" method="POST">
 
 <section class="form-element">

@@ -2,15 +2,15 @@ Type: club-tournament-game
 
 ----
 
-Playera: Heiri
+Playera: Bauzy
 
 ----
 
-Playerb: Fuzzi
+Playerb: Rudi
 
 ----
 
-Tags: Heiri, Fuzzi
+Tags: Bauzy, Rudi
 
 ----
 
@@ -22,7 +22,7 @@ Result:
 
 ----
 
-Uuid: yZkaHiDNBYpmsg4B
+Uuid: n9yZygny0mZcnA39
 
 ----
 

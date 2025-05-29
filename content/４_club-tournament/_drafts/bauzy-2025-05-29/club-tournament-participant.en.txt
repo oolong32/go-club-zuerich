@@ -1,8 +1,8 @@
-Name: Heiri
+Name: Bauzy
 
 ----
 
-Rank: 6-Kyu
+Rank: 7-Dan
 
 ----
 
@@ -14,7 +14,7 @@ Type: club-tournament-player
 
 ----
 
-Uuid: mzhjA8HnACglMGHk
+Uuid: H2MBPzHdx4rrRTQj
 
 ----
 

@@ -1,0 +1,9 @@
+Title: Club Tournament Result Submitted
+
+----
+
+Text:
+
+The Result has been submitted.
+
+----

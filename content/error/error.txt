@@ -4,9 +4,9 @@ Title: Error
 
 Text:
 
-There is no document under this URL.
+Es gibt kein Dokument unter dieser Adresse.
 
-Maybe it can be found on our old website?
+Vielleicht findet es sich auf unserer ehemaligen Website? (Link)
 
 ----
 

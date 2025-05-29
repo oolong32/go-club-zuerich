@@ -10,6 +10,7 @@ return function ($page) {
 
     $referer = $session->get('referer');
     $name    = $session->get('regName');
+    // $ back link 
 
     $turnierTitle = '';
     if ($referer && $refPage = page(urldecode($referer))) {

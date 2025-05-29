@@ -107,10 +107,13 @@ return function ($kirby, $page) {
           ));
 
           if ($registration) {
-              // pass success data back to template
-              $registrationSuccess = $data['name'] . ', ' . t('clubTournamentRegistered');
-              // $data is obsolete, needs not go into form anymore.
-              $data = null;
+            // everything went fine, go to success-page
+            // store data in session
+            $kirby->session()->set(array(
+              'referer' => $page->uri(),
+              'name'  => esc($data['name']),
+            ));
+          go('club-tournament-registration-ok');
           }
         } catch (Exception $e) {
           $alert = array('Failed to create player record: ' . $e->getMessage());
@@ -136,7 +139,6 @@ return function ($kirby, $page) {
       if ($gamePage) {
         $kirby->impersonate('kirby');
         try {
-          // update game entry, mark as played
           $gamePageUpdated = $gamePage->update([
             'result' => $data['result'],
             'played' => True,
@@ -163,6 +165,18 @@ return function ($kirby, $page) {
             $alert = array('Failed to update Wins: ' . $e->getMessage());
           }
         }
+      }
+      if ($gamePageUpdated) {
+        // everything went fine, go to success-page
+        // $winnerPageUpdated nicht abfragen, weil bei Jigo nix
+        // store data in session
+          $kirby->session()->set(array(
+            'referer' => $page->uri(),
+            'result'  => esc($data['result']),
+            'playerA' => esc($data['playerA']),
+            'playerB' => esc($data['playerB']),
+          ));
+        go('club-tournament-result-ok');
       }
   } // end 'submit-result' handler
 

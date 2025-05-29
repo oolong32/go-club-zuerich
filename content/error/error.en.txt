@@ -1,1 +1,17 @@
+Title: Error
+
+----
+
+Text:
+
+There is no document under this URL.
+
+Maybe it can be found on our old website?
+
+----
+
+Foo: Hier könnte ein Link auf die alte WS nützlich sein.
+
+----
+
 Uuid: HdRE2V7UqqrFJbym
