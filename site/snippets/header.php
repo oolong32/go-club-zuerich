@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <link rel="shortcut icon" href="#">
+  <link rel="shortcut icon" href="<?= url('assets/img/') ?>favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title><?= $site->title() ?></title>
   <?= css('/assets/css/reset.css') ?>
