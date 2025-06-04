@@ -74,4 +74,7 @@ env.php
 # old website content
 archive/
 
+# staging adress
+staging/
+
 .htaccess
