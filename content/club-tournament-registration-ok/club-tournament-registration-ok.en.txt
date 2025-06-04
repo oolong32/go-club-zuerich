@@ -2,8 +2,8 @@ Title: Club Tournament Registration
 
 ----
 
-Text:
-
-You’ve registered for the club tournament.
+Text: You’ve registered for the club tournament.
 
 ----
+
+Uuid: GPoxwcaRZ8HoHnT9

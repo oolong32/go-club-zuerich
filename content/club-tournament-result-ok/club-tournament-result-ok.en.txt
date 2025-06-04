@@ -2,8 +2,8 @@ Title: Club Tournament Result Submitted
 
 ----
 
-Text:
-
-The Result has been submitted.
+Text: The Result has been submitted.
 
 ----
+
+Uuid: lqC8A1IXLEsFvJwK

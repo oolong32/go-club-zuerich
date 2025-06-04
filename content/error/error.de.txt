@@ -6,7 +6,7 @@ Text:
 
 Es gibt kein Dokument unter dieser Adresse.
 
-Vielleicht findet es sich auf unserer ehemaligen Website? (Link)
+Vielleicht findet es sich auf unserer (link: /achive text: ehemaligen Website)?
 
 ----
 
@@ -14,4 +14,4 @@ Foo: Hier könnte ein Link auf die alte WS nützlich sein.
 
 ----
 
-Uuid: HnLoLqYMGpS7kQ0P
+Naviname: 
