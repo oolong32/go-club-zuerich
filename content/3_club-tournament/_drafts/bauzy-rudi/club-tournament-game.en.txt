@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Bauzy
+
+----
+
+Playerb: Rudi
+
+----
+
+Tags: Bauzy, Rudi
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: n9yZygny0mZcnA39
+
+----
+
+Text: 

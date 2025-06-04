@@ -10,11 +10,7 @@ Maybe it can be found on our  (link: /achive text: old website)?
 
 ----
 
-Naviname: 
-
-----
-
-Foo: Hier könnte ein Link auf die alte WS nützlich sein.
+Naviname:
 
 ----
 

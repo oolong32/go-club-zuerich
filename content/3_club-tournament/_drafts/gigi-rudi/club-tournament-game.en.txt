@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Gigi
+
+----
+
+Playerb: Rudi
+
+----
+
+Tags: Gigi, Rudi
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: p6ACVMXihmqI3W28
+
+----
+
+Text: 

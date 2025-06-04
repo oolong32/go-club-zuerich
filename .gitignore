@@ -73,3 +73,5 @@ env.php
 
 # old website content
 archive/
+
+.htaccess

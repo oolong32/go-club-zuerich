@@ -1,0 +1,25 @@
+Text: 
+
+----
+
+Naviname: 
+
+----
+
+Name: Gigi
+
+----
+
+Rank: 10-Kyu
+
+----
+
+Wins: 1
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: hdMrQrrcpvAQxyCg

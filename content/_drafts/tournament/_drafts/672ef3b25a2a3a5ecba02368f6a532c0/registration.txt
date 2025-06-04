@@ -1,0 +1,37 @@
+Name: asdf
+
+----
+
+Email: asdf@foo.com
+
+----
+
+Rank: 3 Kyu
+
+----
+
+Age: student
+
+----
+
+Club: 
+
+----
+
+Workshop: yes
+
+----
+
+Remarks: asdf
+
+----
+
+Visibility: hidden
+
+----
+
+Uuid: g6mI8xUaV683FnMY
+
+----
+
+Text: 

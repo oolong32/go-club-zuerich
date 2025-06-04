@@ -10,8 +10,4 @@ Vielleicht findet es sich auf unserer (link: /achive text: ehemaligen Website)?
 
 ----
 
-Foo: Hier könnte ein Link auf die alte WS nützlich sein.
-
-----
-
-Naviname: 
+Naviname:

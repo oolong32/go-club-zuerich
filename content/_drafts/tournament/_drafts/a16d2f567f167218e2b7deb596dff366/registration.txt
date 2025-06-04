@@ -1,0 +1,37 @@
+Name: Hansi Knötrich
+
+----
+
+Email: asdf@asdf.com
+
+----
+
+Rank: 6 Dan
+
+----
+
+Age: minor
+
+----
+
+Club: Milano
+
+----
+
+Workshop: yes
+
+----
+
+Remarks: Nothing
+
+----
+
+Visibility: visible
+
+----
+
+Uuid: XpfzQ8XGZoDNpk88
+
+----
+
+Text: 

@@ -1,0 +1,37 @@
+Name: Peter Tosh
+
+----
+
+Email: peter@tosh.jm
+
+----
+
+Rank: 8 Dan
+
+----
+
+Age: adult
+
+----
+
+Club: Kingston
+
+----
+
+Workshop: no
+
+----
+
+Remarks: Jah Rastafari! 🇯🇲
+
+----
+
+Visibility: visible
+
+----
+
+Uuid: TTaTqZoAtO1MWZTJ
+
+----
+
+Text: 

@@ -1,0 +1,21 @@
+Title: Neue Website
+
+----
+
+Slug: neue-website
+
+----
+
+Text:
+
+Wir haben eine neue Website! Sie ist mit dem (link: https://getkirby.com/ text: Kirby-CMS) programmiert. Im Moment gibt es noch nicht viel neuen Inhalt, aber wir führen ein (link: /club-turnier/ text: Club-internes Turnier) durch und du kannst dich jetzt schon anmelden.
+
+Die bisherige Website bleibt weiterhin zugänglich: (link: https://zurich.swissgo.org/archive/ text: zurich.swissgo.org/archive)
+
+----
+
+Author: Josef
+
+----
+
+Date: 2025-05-12

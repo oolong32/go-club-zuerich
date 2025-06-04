@@ -1,0 +1,21 @@
+Title: New Website
+
+----
+
+Text:
+
+We have a new website! I’s built with the (link: https://getkirby.com/ text: Kirby-CMS). At the moment there is not much new content, but we are organising a (link: /club-tournament/ text: Club Tournament) and you can already register now.
+
+The previous website will remain accessible: (link: https://zurich.swissgo.org/archive/ text: zurich.swissgo.org/archive)
+
+----
+
+Author: Josef
+
+----
+
+Date: 2025-05-12
+
+----
+
+Uuid: Ef2K2zuSQ6qu8QCv

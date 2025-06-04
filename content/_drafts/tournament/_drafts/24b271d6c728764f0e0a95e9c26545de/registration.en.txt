@@ -1,0 +1,37 @@
+Name: Carlos Potatos
+
+----
+
+Email: potatos@knorz.ch
+
+----
+
+Rank: 3 Dan
+
+----
+
+Age: adult
+
+----
+
+Club: Potato-City
+
+----
+
+Workshop: no
+
+----
+
+Remarks: Hi!
+
+----
+
+Visibility: visible
+
+----
+
+Uuid: tmMyYTKkqBfgjiwU
+
+----
+
+Text: 

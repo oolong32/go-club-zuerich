@@ -1,0 +1,37 @@
+Name: fröschli asdf
+
+----
+
+Email: asdf@asdf.com
+
+----
+
+Age: student
+
+----
+
+Club: Interlaken
+
+----
+
+Rank: 23 Kyu
+
+----
+
+Workshop: no
+
+----
+
+Remarks: asfdfasdf
+
+----
+
+visibility: visible
+
+----
+
+Uuid: hjRGXTzJ19GHyXJf
+
+----
+
+Text: 

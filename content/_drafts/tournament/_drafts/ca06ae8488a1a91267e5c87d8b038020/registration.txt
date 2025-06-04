@@ -1,0 +1,37 @@
+Name: foo
+
+----
+
+Email: knorz@furz.pop
+
+----
+
+Rank: 7 Dan
+
+----
+
+Age: adult
+
+----
+
+Club: Antwerpen
+
+----
+
+Workshop: yes
+
+----
+
+Remarks: adsf
+
+----
+
+Visibility: visible
+
+----
+
+Uuid: JbfCqrhuwpEp1jkF
+
+----
+
+Text: 
