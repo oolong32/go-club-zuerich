@@ -70,3 +70,6 @@ env.php
 # php cs fixer
 .php-cs-fixer.cache
 .php-cs-fixer.dist.php
+
+# old website content
+archive/
