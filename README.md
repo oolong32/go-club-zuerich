@@ -11,5 +11,6 @@
 - ✅ styling language switch
 - not so good: change language on success page breaks the internet.
     - might be fixed, needs test
+- ftp/githubt deploy-automatismus
 
-- gibt es den «zuerigoleu» noch in irgendeinem archiv?
+- gibt es den «zuerigoleu» noch in irgendeinem archiv? (EPS/Vektor?)

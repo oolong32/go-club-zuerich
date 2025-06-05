@@ -8,14 +8,14 @@ jobs:
     defaults:
       run:
         shell: bash
-steps:
-  - uses: actions/checkout@v3
-    with:
-      fetch-depth: 2
-  - name: FTP Deployment
-    uses: SamKirkland/FTP-Deploy-Action@4.3.3
-    with:
-      server: zurich-staging.swissgo.org
-      username: zurich-staging
-      password: nG^T#E5YWGYvn&y&9lx
-      protocol: ftps
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - name: FTP Deployment
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        with:
+          server: zurich-staging.swissgo.org
+          username: zurich-staging
+          password: nG^T#E5YWGYvn&y&9lx
+          protocol: ftps
