@@ -12,7 +12,6 @@ steps:
   - uses: actions/checkout@v3
     with:
       fetch-depth: 2
-steps:
   - name: FTP Deployment
     uses: SamKirkland/FTP-Deploy-Action@4.3.3
     with:
