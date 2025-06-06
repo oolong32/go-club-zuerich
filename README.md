@@ -9,8 +9,14 @@
 - ✅ Übersetzung confirmation-mail
 - ✅ Auf dem Server: [Mail config](https://getkirby.com/docs/guide/emails#transport-configuration)
 - ✅ styling language switch
+- ✅ add `_draft` Folders to .gitignore. Zu Turnieren angemeldete Spieler dürfen auf keinen Fall überschrieben werden.
 - not so good: change language on success page breaks the internet.
     - might be fixed, needs test
-- ftp/githubt deploy-automatismus
+- ftp/github deploy-automatismus
 
+## Vermischtes
 - gibt es den «zuerigoleu» noch in irgendeinem archiv? (EPS/Vektor?)
+
+## Fragen
+
+- Im Workflow wird die Plattform (Ubuntu) erwähnt, eine arbiträre Annahme. Ist das wichtig/egal?
