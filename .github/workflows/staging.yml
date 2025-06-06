@@ -18,4 +18,4 @@ jobs:
           server: zurich-staging.swissgo.org
           username: zurich-staging
           password: nG^T#E5YWGYvn&y&9lx
-          protocol: ftps
+          protocol: ftp
