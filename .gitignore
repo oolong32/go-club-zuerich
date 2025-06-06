@@ -77,4 +77,9 @@ archive/
 # staging adress
 staging/
 
+# htaccess differst due to the path/domain
 .htaccess
+
+
+# ftp-deploy state on server
+.ftp-deploy-sync-state.json

@@ -14,6 +14,20 @@
     - might be fixed, needs test
 - ftp/github deploy-automatismus
 
+## Deploy
+
+Gemäss Kirby-Dokumentation, [Git-based FTP-deployment](https://getkirby.com/docs/cookbook/development-deployment/git-based-ftp-deployment).
+
+- Push auf GitHub/main löst sofort einen **Deploy auf den Staging-Server** aus.
+- Der **Deploy auf Production** wird ausgelöst, wenn ein [*git-Tag*](https://git-scm.com/book/en/v2/Git-Basics-Tagging) auf GitHub gepusht wird.
+
+```
+git tag v0.1
+git push origin --tags
+```
+
+FTP passwords etc. are hidden in GitHub secrets.
+
 ## Vermischtes
 - gibt es den «zuerigoleu» noch in irgendeinem archiv? (EPS/Vektor?)
 
