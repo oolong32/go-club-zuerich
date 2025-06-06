@@ -1,7 +1,8 @@
-name: Staging Deployment
+name: Production Deployment
 on:
   push:
-    branches: [ main ]
+    tags:
+      - '*'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,7 +16,7 @@ jobs:
       - name: FTP Deployment
         uses: SamKirkland/FTP-Deploy-Action@4.3.3
         with:
-          server: ${{ secrets.FTP_STAGING_SERVER }}
-          username: ${{ secrets.FTP_STAGING_USER }}
-          password: ${{ secrets.FTP_STAGING_PW }}
+          server: ${{ secrets.FTP_PRODUCTION_SERVER }}
+          username: ${{ secrets.FTP_PRODUCTION_USER }}
+          password: ${{ secrets.FTP_PRODUCTION_PW }}
           protocol: ftp
