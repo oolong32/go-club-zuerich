@@ -1,7 +1,10 @@
 <nav>
   <ul class="page-navigation">
+	<li>
+	  <a class="unstyled-link" href="<?= $site->url() ?>" <?php echo $page->isHomePage() ? ' style="text-decoration: underline;"' : '' ?>>Home</a>
+	</li>
     <?php foreach ($site->children()->listed() as $item): ?>
-    <li><a class="unstyled-link" href="<?= $item->url() ?>"><?= $item->naviName() ?></a></li>
+    <li><a class="unstyled-link" href="<?= $item->url() ?>"<?php e($item->isOpen(), ' style="text-decoration: underline;"') ?>><?= $item->naviName() ?></a></li>
     <?php endforeach ?>
   </ul>
 
