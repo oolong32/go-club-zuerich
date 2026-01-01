@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Murtaza Nomani
+
+----
+
+Playerb: Panot Chaimongkol
+
+----
+
+Tags: Murtaza Nomani, Panot Chaimongkol
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: aW2Y3H3anyEs6aCs
+
+----
+
+Text: 

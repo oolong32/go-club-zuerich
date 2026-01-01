@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Josef
+
+----
+
+Playerb: Nikita Vysotskii
+
+----
+
+Tags: Josef, Nikita Vysotskii
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: FvB5q4pEIDmYHEdo
+
+----
+
+Text: 

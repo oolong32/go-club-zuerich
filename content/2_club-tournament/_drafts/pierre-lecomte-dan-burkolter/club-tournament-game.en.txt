@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Pierre Lecomte
+
+----
+
+Playerb: Dan Burkolter
+
+----
+
+Tags: Pierre Lecomte, Dan Burkolter
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: NW7B4NA5jr8ap4or
+
+----
+
+Text: 

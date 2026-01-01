@@ -1,0 +1,21 @@
+Name: Pierre Lecomte
+
+----
+
+Rank: 1-Kyu
+
+----
+
+Wins: 0
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: Vjg36v1GectEQHzE
+
+----
+
+Text: 

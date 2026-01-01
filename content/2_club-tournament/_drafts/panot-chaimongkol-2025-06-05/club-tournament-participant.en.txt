@@ -1,0 +1,21 @@
+Name: Panot Chaimongkol
+
+----
+
+Rank: 7-Kyu
+
+----
+
+Wins: 0
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: AJm8GsTvLMB2dGxN
+
+----
+
+Text: 

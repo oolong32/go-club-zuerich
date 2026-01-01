@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Dan Burkolter
+
+----
+
+Playerb: Nikita Vysotskii
+
+----
+
+Tags: Dan Burkolter, Nikita Vysotskii
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: DJsYFwnZFwYyNgju
+
+----
+
+Text: 

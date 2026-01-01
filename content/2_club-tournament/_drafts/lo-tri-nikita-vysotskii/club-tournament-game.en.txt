@@ -1,0 +1,33 @@
+Text: 
+
+----
+
+Naviname: 
+
+----
+
+Type: club-tournament-game
+
+----
+
+Playera: Lo Tri
+
+----
+
+Playerb: Nikita Vysotskii
+
+----
+
+Tags: Lo Tri, Nikita Vysotskii
+
+----
+
+Played: 1
+
+----
+
+Result: jigo
+
+----
+
+Uuid: N6dfb1PD607qrpPA

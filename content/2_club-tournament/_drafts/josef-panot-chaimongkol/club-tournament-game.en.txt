@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Josef
+
+----
+
+Playerb: Panot Chaimongkol
+
+----
+
+Tags: Josef, Panot Chaimongkol
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: xK4wnniSSBWsL6uS
+
+----
+
+Text: 

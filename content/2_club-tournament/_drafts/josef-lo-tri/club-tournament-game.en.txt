@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Josef
+
+----
+
+Playerb: Lo Tri
+
+----
+
+Tags: Josef, Lo Tri
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: CYCYovRgAPfWfcDT
+
+----
+
+Text: 

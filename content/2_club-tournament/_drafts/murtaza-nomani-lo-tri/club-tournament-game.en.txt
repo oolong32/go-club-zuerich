@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Murtaza Nomani
+
+----
+
+Playerb: Lo Tri
+
+----
+
+Tags: Murtaza Nomani, Lo Tri
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: jxRDDUiDXD7tcBNc
+
+----
+
+Text: 

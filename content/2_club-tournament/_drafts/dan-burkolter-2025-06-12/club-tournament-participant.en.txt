@@ -1,0 +1,21 @@
+Name: Dan Burkolter
+
+----
+
+Rank: 2-Kyu
+
+----
+
+Wins: 0
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: ih5OJefjlMCi8vK6
+
+----
+
+Text: 

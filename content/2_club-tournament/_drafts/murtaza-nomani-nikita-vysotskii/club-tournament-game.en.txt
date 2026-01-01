@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Murtaza Nomani
+
+----
+
+Playerb: Nikita Vysotskii
+
+----
+
+Tags: Murtaza Nomani, Nikita Vysotskii
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: mjDo1vWI3Oor15hU
+
+----
+
+Text: 

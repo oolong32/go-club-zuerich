@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Murtaza Nomani
+
+----
+
+Playerb: Dan Burkolter
+
+----
+
+Tags: Murtaza Nomani, Dan Burkolter
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: cYzgOphBFOvc6e0K
+
+----
+
+Text: 

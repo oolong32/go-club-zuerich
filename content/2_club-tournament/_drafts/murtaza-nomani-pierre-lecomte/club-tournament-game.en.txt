@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Murtaza Nomani
+
+----
+
+Playerb: Pierre Lecomte
+
+----
+
+Tags: Murtaza Nomani, Pierre Lecomte
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: 7tTQwdRtAvK4yfV1
+
+----
+
+Text: 

@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Dan Burkolter
+
+----
+
+Playerb: Panot Chaimongkol
+
+----
+
+Tags: Dan Burkolter, Panot Chaimongkol
+
+----
+
+Played: 1
+
+----
+
+Result: Dan Burkolter
+
+----
+
+Text: 
+
+----
+
+Naviname: 

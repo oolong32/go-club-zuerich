@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Pierre Lecomte
+
+----
+
+Playerb: Lo Tri
+
+----
+
+Tags: Pierre Lecomte, Lo Tri
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: Aq48W9Sn6LURjMnC
+
+----
+
+Text: 

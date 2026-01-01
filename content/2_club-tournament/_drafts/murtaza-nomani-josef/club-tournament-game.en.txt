@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Murtaza Nomani
+
+----
+
+Playerb: Josef
+
+----
+
+Tags: Murtaza Nomani, Josef
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: cW2GHRtW1BKX9eSA
+
+----
+
+Text: 

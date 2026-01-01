@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Josef
+
+----
+
+Playerb: Dan Burkolter
+
+----
+
+Tags: Josef, Dan Burkolter
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: sU7A8jRhoHcQdcl1
+
+----
+
+Text: 

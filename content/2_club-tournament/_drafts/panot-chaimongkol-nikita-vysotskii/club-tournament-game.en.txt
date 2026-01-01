@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Panot Chaimongkol
+
+----
+
+Playerb: Nikita Vysotskii
+
+----
+
+Tags: Panot Chaimongkol, Nikita Vysotskii
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: IK3tLcbO7HkAT0m5
+
+----
+
+Text: 

@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Pierre Lecomte
+
+----
+
+Playerb: Josef
+
+----
+
+Tags: Pierre Lecomte, Josef
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: 6zYAdCGy6H70j3QZ
+
+----
+
+Text: 

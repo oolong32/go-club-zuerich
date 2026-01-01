@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Pierre Lecomte
+
+----
+
+Playerb: Nikita Vysotskii
+
+----
+
+Tags: Pierre Lecomte, Nikita Vysotskii
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: ZDgQGioegxHnV1ZJ
+
+----
+
+Text: 

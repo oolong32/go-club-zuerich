@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Pierre Lecomte
+
+----
+
+Playerb: Panot Chaimongkol
+
+----
+
+Tags: Pierre Lecomte, Panot Chaimongkol
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: b9d5vPHSKSugjPey
+
+----
+
+Text: 

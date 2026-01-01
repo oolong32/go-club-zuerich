@@ -1,0 +1,21 @@
+Name: Lo Tri
+
+----
+
+Rank: 1-Dan
+
+----
+
+Wins: 0
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: DTTkBYQA9TO2j9O1
+
+----
+
+Text: 

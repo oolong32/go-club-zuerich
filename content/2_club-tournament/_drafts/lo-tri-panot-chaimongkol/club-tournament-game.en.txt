@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Lo Tri
+
+----
+
+Playerb: Panot Chaimongkol
+
+----
+
+Tags: Lo Tri, Panot Chaimongkol
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: TKJv5jXaLvMPeHk4
+
+----
+
+Text: 

@@ -1,0 +1,21 @@
+Name: Nikita Vysotskii
+
+----
+
+Rank: 15-Kyu
+
+----
+
+Wins: 0
+
+----
+
+Type: club-tournament-player
+
+----
+
+Uuid: cdpQtyMqckBPlFtg
+
+----
+
+Text: 

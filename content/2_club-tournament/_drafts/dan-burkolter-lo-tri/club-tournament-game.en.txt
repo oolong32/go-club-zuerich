@@ -1,0 +1,29 @@
+Type: club-tournament-game
+
+----
+
+Playera: Dan Burkolter
+
+----
+
+Playerb: Lo Tri
+
+----
+
+Tags: Dan Burkolter, Lo Tri
+
+----
+
+Played: 0
+
+----
+
+Result: 
+
+----
+
+Uuid: zpwRHSZIupgWTt6w
+
+----
+
+Text: 
