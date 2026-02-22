@@ -32,7 +32,7 @@ return array(
     'youRegistered' => 'Du hast dich angemeldet zum',
     'ifQuestions' => 'Wenn du Fragen hast, kannst du auf dieses Mail antworten',
     'lookingForward' => 'Wir freuen uns darauf, dich am Turnier zu begrüssen',
-    'backToTournament' => 'Zurück zur <a href="/de/turnier">Turnier Seite</a>',
+    'backToTournament' => 'Zurück zur <a href="/de/tournament2026">Turnier Seite</a>',
     'backToClubTournament' => 'Zurück zur <a href="/de/club-tournament">Club Turnier Seite</a>',
     'privacyPolicy' => 'Datenschutzerklärung',
     'ppSlug' => 'de/datenschutzerklaerung',

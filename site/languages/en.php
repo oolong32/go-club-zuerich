@@ -32,7 +32,7 @@ return array(
     'youRegistered' => 'you have registered for the',
     'ifQuestions' => 'If you have any questions you can answer to this mail',
     'lookingForward' => 'We are looking forward to seeing you',
-    'backToTournament' => 'Back to the <a href="/tournament">Tournament Page</a>',
+    'backToTournament' => 'Back to the <a href="/tournament2026">Tournament Page</a>',
     'backToClubTournament' => 'Back to the <a href="/club-tournament">Club Tournament Page</a>',
     'privacyPolicy' => 'Privacy Policy',
     'ppSlug' => 'privacy-policy',

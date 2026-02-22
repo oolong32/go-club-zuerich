@@ -31,11 +31,11 @@ Bitte ruf an oder sende eine WhatsApp-Nachricht oder SMS, falls du dich verspät
 
 ----
 
-Day1: 2026-05-09
+Day1: 2026-06-20
 
 ----
 
-Day2: 2026-05-10
+Day2: 2026-06-21
 
 ----
 
@@ -75,11 +75,11 @@ Pricegiving: 16:00:00
 
 ----
 
-Dayone: 2026-05-09
+Dayone: 2026-06-20
 
 ----
 
-Daytwo: 2026-05-10
+Daytwo: 2026-06-21
 
 ----
 
@@ -91,4 +91,4 @@ Roundtwo:
 
 ----
 
-Date: 2026-05-23
+Date: 2026-06-20
