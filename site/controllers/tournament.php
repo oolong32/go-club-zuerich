@@ -60,7 +60,23 @@ return function ($kirby, $page) {
                     )
                   ));
 
-                // Was noch fehlt: Info-Mail an Lorenz, mit $data['remarks']
+                // Send notification to organizer
+                $kirby->email(array(
+                  'template' => 'organizer-notification',
+                  'from'     => 'zuerigo@gmail.com',
+                  'to'       => 'zuerigo@gmail.com',
+                  'subject'  => 'New registration: ' . $data['name'],
+                  'data'     => array(
+                    'tournament' => $page->title(),
+                    'name'       => $data['name'],
+                    'email'      => $data['email'],
+                    'rank'       => $data['rank'],
+                    'age'        => $data['age'],
+                    'club'       => $data['club'],
+                    'workshop'   => $data['workshop'],
+                    'remarks'    => $data['remarks']
+                    )
+                  ));
 
             } catch (Exception $error) {
                 if (option('debug')):

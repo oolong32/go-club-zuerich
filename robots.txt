@@ -1,0 +1,5 @@
+# robots.txt for Go Club Zürich
+
+User-agent: *
+Disallow: /tournament2026/
+Disallow: /de/turnier2026/

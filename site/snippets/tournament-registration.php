@@ -113,7 +113,7 @@
   <input class="registration-button" type="submit" name="register" value="<?= t('register') ?>">
 </section>
 
-  <p>Changes, cancelations or questions: <a href="mailto:zuerigo@gmail.com"></a></p>
+  <p>Changes, cancelations or questions: <a href="mailto:zuerigo@gmail.com">zuerigo@gmail.com</a></p>
 
 </form>
 

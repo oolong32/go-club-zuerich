@@ -5,7 +5,10 @@
   <meta charset="UTF-8">
   <link rel="shortcut icon" href="<?= url('assets/img/') ?>favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title><?= $site->title() ?></title>
+  <?php if ($page->template() == 'tournament'): ?>
+  <meta name="robots" content="noindex, nofollow">
+  <?php endif ?>
+  <title><?= $page->isHomePage() ? $site->title() : $page->title() . ' | ' . $site->title() ?></title>
   <?= css('/assets/css/reset.css') ?>
   <?= css('/assets/css/fonts.css') ?>
   <?= css('/assets/css/style.css') ?>
