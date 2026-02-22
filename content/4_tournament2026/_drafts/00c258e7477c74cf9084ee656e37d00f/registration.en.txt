@@ -1,0 +1,33 @@
+Name: Lorenz Trippel
+
+----
+
+Email: ltrippel@gmail.com
+
+----
+
+Rank: 1 Dan
+
+----
+
+Age: adult
+
+----
+
+Club: Zürich
+
+----
+
+Workshop: yes
+
+----
+
+Remarks: Jaja
+
+----
+
+Uuid: Cx76E4LHaqP9nNcr
+
+----
+
+Text: 

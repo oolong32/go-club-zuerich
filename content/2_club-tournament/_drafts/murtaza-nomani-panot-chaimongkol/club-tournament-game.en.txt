@@ -1,3 +1,11 @@
+Text: 
+
+----
+
+Naviname: 
+
+----
+
 Type: club-tournament-game
 
 ----
@@ -14,16 +22,12 @@ Tags: Murtaza Nomani, Panot Chaimongkol
 
 ----
 
-Played: 0
+Played: 1
 
 ----
 
-Result: 
+Result: jigo
 
 ----
 
 Uuid: aW2Y3H3anyEs6aCs
-
-----
-
-Text: 

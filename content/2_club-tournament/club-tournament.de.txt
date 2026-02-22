@@ -6,4 +6,4 @@ Text: Das Turnier beginnt, sobald wir verbidliche Regeln aufgestellt haben. Du k
 
 ----
 
-Naviname: club tournament
+Naviname: Clubturnier

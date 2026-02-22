@@ -22,7 +22,7 @@ return array(
     'yes' => 'yes',
     'no' => 'no',
     'maybe' => 'maybe',
-    'workshopParticipate' => 'I’d like to participate at the workshop with Cho Seok-bin on Friday evening at the <a href="https://maps.app.goo.gl/yfGQ4CsZ7BLvrhmm8" target="_blank">Würfel</a>',
+    'workshopParticipate' => 'I’d like to participate at the workshop with <!--Cho Seok-bin--> on Friday evening at the <a href="https://maps.app.goo.gl/yfGQ4CsZ7BLvrhmm8" target="_blank">Würfel</a>',
     'adult' => 'Older than 18',
     'student' => 'Student and 25 or younger',
     'minor' => '18 or younger',

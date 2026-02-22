@@ -9,14 +9,14 @@ Slug: turnier
 Text:
 
 **Das offizielle Turnier des Zürcher Go-Clubs!**
-
+<!--
 Cho Seok-bin wird während des gesamten Turniers anwesend sein, um Fragen zu beantworten und eure Partien zu analysieren!
 
 Mehr über Seok-bin erfährst du auf seiner (link: http://www.nakamurahoninbou.com text: Website).
+-->
+**Datum:** Samstag / Sonntag 20. / 21. Juni 2026
 
-**Datum:** 9. / 10. Mai 2026
-
-**Beginn:** Samstag, 9. Mai, 13:00 Uhr
+**Beginn:** Samstag, 20. Juni, 13:00 Uhr
 
 **Erste Partie:** Falls du nicht vorangemeldet bist, komm bitte eine halbe Stunde früher.
 
@@ -67,7 +67,7 @@ Prizegiving: 16:00:00
 
 ----
 
-Naviname: turnier
+Naviname: Frühlingsturnier
 
 ----
 
@@ -83,11 +83,11 @@ Daytwo: 2026-05-10
 
 ----
 
-Roundone:
+Roundone: 
 
 ----
 
-Roundtwo:
+Roundtwo: 
 
 ----
 
