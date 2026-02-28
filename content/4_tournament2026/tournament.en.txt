@@ -5,12 +5,6 @@ Title: Spring Tournament 2026
 Text:
 
 **The official tournament of the Zurich Go Club!**
-
-<!--
-Cho Seok-bin will be present throughout the tournament to answer questions and review your games!
-
-Find out about Seok-bin on his (link: http://www.nakamurahoninbou.com text: web page).
--->
  
 **Date:** Saturday/Sunday June 20th / 21st 2026
 
@@ -20,9 +14,25 @@ Find out about Seok-bin on his (link: http://www.nakamurahoninbou.com text: web 
 
 **Venue:** (link: https://gz-zh.ch/gz-buchegg/ text: Gemeinschaftszentrum GZ Buchegg), Spiegelsaal Bucheggstrasse 93, 8057 Zürich (just next to Bucheggplatz).
 
-**Public Transport to the Venue**: At Zurich Main Station take (link: https://www.google.com/maps/dir/Zurich+HB,+Bahnhofplatz,+Z%C3%BCrich/GZ+Buchegg+-+Z%C3%BCrcher+Gemeinschaftszentren,+Bucheggstrasse+93,+8057+Z%C3%BCrich/@47.3877609,8.5281868,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5402517!2d47.3781458!1m5!1m1!1s0x47900a65005f702f:0x77c28a6800c95818!2m2!1d8.5350633!2d47.3990007!3e3?entry=ttu text: Tram 11, 15) direction Oerlikon (Züriberg) upwards, get out at Bucheggplatz. 
+<div class="tournament-image-row">
+(image: front.jpg alt: Entrance GZ Buchegg)
+(image: spgsl.jpg alt: Mirror hall)
+</div>
 
-Emergency **phone during** the tournament: (tel: +41 77 417 39 70), Please call or send a Whatsapp message or an SMS if you are late or if you had to leave unexpectedly!
+**Public Transport to the Venue**: At Zurich Main Station take (link: https://www.google.com/maps/dir/Zurich+HB,+Bahnhofplatz,+Z%C3%BCrich/GZ+Buchegg+-+Z%C3%BCrcher+Gemeinschaftszentren,+Bucheggstrasse+93,+8057+Z%C3%BCrich/@47.3877609,8.5281868,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5402517!2d47.3781458!1m5!1m1!1s0x47900a65005f702f:0x77c28a6800c95818!2m2!1d8.5350633!2d47.3990007!3e3?entry=ttu text: Tram 50, 17) direction Oerlikon (Züriberg) upwards, get out at Bucheggplatz. 
+
+**Emergency phone during the tournament:** (tel: +41 77 417 39 70) Please call or send a [Whatsapp message](https://wa.me/41774173970) or an SMS if you are late or if you had to leave unexpectedly!
+
+**Entry Fee:** 30 Fr 
+- we will order some family pizzas for sunday lunch, it's included
+- 10 Fr discount for students under 25 years and for U18 players
+- At the tournament: +10 Fr latecomer fee.
+
+**Hwang In-seong** will be present throughout the tournament to answer questions and review your games!
+
+Find out about In-seong on his (link: http://www.yunguseng.com text: web page).
+
+(image: epfl.jpg)
 
 ----
 

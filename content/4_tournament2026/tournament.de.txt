@@ -9,25 +9,38 @@ Slug: turnier2026
 Text:
 
 **Das offizielle Turnier des Zürcher Go-Clubs!**
-<!--
-Cho Seok-bin wird während des gesamten Turniers anwesend sein, um Fragen zu beantworten und eure Partien zu analysieren!
 
-Mehr über Seok-bin erfährst du auf seiner (link: http://www.nakamurahoninbou.com text: Website).
--->
 **Datum:** Samstag / Sonntag 20. / 21. Juni 2026
 
 **Beginn:** Samstag, 20. Juni, 13:00 Uhr
 
 **Erste Partie:** Falls du nicht vorangemeldet bist, komm bitte eine halbe Stunde früher.
 
-Ort: (link: https://gz-zh.ch/gz-buchegg/ text: Gemeinschaftszentrum GZ Buchegg), Spiegelsaal
+**Ort:** (link: https://gz-zh.ch/gz-buchegg/ text: Gemeinschaftszentrum GZ Buchegg), Spiegelsaal
 Bucheggstrasse 93, 8057 Zürich (direkt beim Bucheggplatz)
 
-Anreise mit dem öffentlichen Verkehr:
-Ab Zürich Hauptbahnhof mit Tram (link: https://www.google.com/maps/dir/Zurich+HB,+Bahnhofplatz,+Z%C3%BCrich/GZ+Buchegg+-+Z%C3%BCrcher+Gemeinschaftszentren,+Bucheggstrasse+93,+8057+Z%C3%BCrich/@47.3877609,8.5281868,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5402517!2d47.3781458!1m5!1m1!1s0x47900a65005f702f:0x77c28a6800c95818!2m2!1d8.5350633!2d47.3990007!3e3?entry=ttu text: Tram 11 oder 15) in Richtung Oerlikon (Züriberg) bergauf, bei Bucheggplatz aussteigen.
+<div class="tournament-image-row">
+(image: front.jpg alt: Eingang GZ Buchegg)
+(image: spgsl.jpg alt: Spiegelsaal)
+</div>
 
-Notfalltelefon während des Turniers: (tel: +41 77 417 39 70)
-Bitte ruf an oder sende eine WhatsApp-Nachricht oder SMS, falls du dich verspätest oder unerwartet gehen musstest!
+
+**Anreise mit dem öffentlichen Verkehr:**
+Ab Zürich Hauptbahnhof mit Tram (link: https://www.google.com/maps/dir/Zurich+HB,+Bahnhofplatz,+Z%C3%BCrich/GZ+Buchegg+-+Z%C3%BCrcher+Gemeinschaftszentren,+Bucheggstrasse+93,+8057+Z%C3%BCrich/@47.3877609,8.5281868,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5402517!2d47.3781458!1m5!1m1!1s0x47900a65005f702f:0x77c28a6800c95818!2m2!1d8.5350633!2d47.3990007!3e3?entry=ttu text: Tram 50 oder 17) in Richtung Oerlikon (Züriberg) bergauf, bei Bucheggplatz aussteigen.
+
+**Notfalltelefon während des Turniers:** (tel: +41 77 417 39 70)
+Bitte ruf an oder sende eine [WhatsApp-Nachricht](https://wa.me/41774173970) oder SMS, falls du dich verspätest oder unerwartet gehen musstest!
+
+**Teilnahmegebühr:** 30 Fr 
+-  wir werden für den Lunch am Sonntag ein paar Familienpizzas bestellen, sind inbegriffen
+- 10 Fr  Ermäßigung für Studenten unter 25 Jahren und für Spieler unter 18 Jahren
+- Beim Turnier: +10 Fr Gebühr für Nachzügler.
+
+**Hwang In-seong** wird während des gesamten Turniers anwesend sein, Fragen beantworten und eure Partien analysieren!
+
+Mehr über In-seong erfährst du auf seiner (link: http://www.yunguseng.com text: Website).
+
+(image: epfl.jpg)
 
 ----
 

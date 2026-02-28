@@ -5,3 +5,5 @@
 <?php echo t('ifQuestions') ?>.
 
 <?php echo t('lookingForward') ?>!
+
+https://zurich.swissgo.org/tournament2026
