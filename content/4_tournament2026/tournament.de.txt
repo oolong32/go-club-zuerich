@@ -9,7 +9,6 @@ Slug: turnier2026
 Text:
 
 **Das offizielle Turnier des Zürcher Go-Clubs!**
-
 **Datum:** Samstag / Sonntag 20. / 21. Juni 2026
 
 **Beginn:** Samstag, 20. Juni, 13:00 Uhr
@@ -23,7 +22,6 @@ Bucheggstrasse 93, 8057 Zürich (direkt beim Bucheggplatz)
 (image: front.jpg alt: Eingang GZ Buchegg)
 (image: spgsl.jpg alt: Spiegelsaal)
 </div>
-
 
 **Anreise mit dem öffentlichen Verkehr:**
 Ab Zürich Hauptbahnhof mit Tram (link: https://www.google.com/maps/dir/Zurich+HB,+Bahnhofplatz,+Z%C3%BCrich/GZ+Buchegg+-+Z%C3%BCrcher+Gemeinschaftszentren,+Bucheggstrasse+93,+8057+Z%C3%BCrich/@47.3877609,8.5281868,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5402517!2d47.3781458!1m5!1m1!1s0x47900a65005f702f:0x77c28a6800c95818!2m2!1d8.5350633!2d47.3990007!3e3?entry=ttu text: Tram 50 oder 17) in Richtung Oerlikon (Züriberg) bergauf, bei Bucheggplatz aussteigen.
@@ -40,7 +38,12 @@ Bitte ruf an oder sende eine [WhatsApp-Nachricht](https://wa.me/41774173970) ode
 
 Mehr über In-seong erfährst du auf seiner (link: http://www.yunguseng.com text: Website).
 
+**Workshop:**
+Am Freitag, den 19. Juni um 19:30 Uhr, wird In-seong einen Workshop in unserem Clubhaus veranstalten. Er findet im Flex statt (direkt neben dem (Link: https://maps.app.goo.gl/pRUcVcXiSaS4CWkKA Text: Würfel)).
+
 (image: epfl.jpg)
+
+(file: fruhlingsturnier-2026-_-go-club-zurich.pdf text: 📄 [PDF] Ausschreibung herunterladen)
 
 ----
 

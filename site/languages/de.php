@@ -21,7 +21,7 @@ return array(
     'yes' => 'ja',
     'no' => 'nein',
     'maybe' => 'vielleicht',
-    'workshopParticipate' => 'Ich möchte am Workshop mit <!--Cho Seok-bin--> am Freitagabend im <a href="https://maps.app.goo.gl/yfGQ4CsZ7BLvrhmm8" target="_blank">Würfel</a> teilnehmen',
+    'workshopParticipate' => 'Ich möchte am Workshop <!--mit Cho Seok-bin--> am Freitagabend im <a href="https://maps.app.goo.gl/mfUQ3395x2KKgMhj6" target="_blank">Würfel</a> teilnehmen',
     'adult' => 'Älter als 18',
     'student' => 'Student und 25 oder jünger',
     'minor' => '18 oder jünger',

@@ -112,7 +112,12 @@ input[type="radio"] {
   height: var(--fs-mini);
 }
 
-h1, h5, h6, p, ul, aside, form, table, figure { margin-bottom: 1rem; }
+h1, h5, h6, p, ul, ol, aside, form, table, figure { margin-bottom: 1rem; }
+
+ul, ol {
+  margin-top: -0.25rem;
+  padding-left: 2rem;
+}
 
 h2 { margin-bottom: 2rem; }
 h3 { margin-top: 2rem; margin-bottom: 1rem; }
@@ -120,6 +125,16 @@ h3 { margin-top: 2rem; margin-bottom: 1rem; }
 span.emoji {
   display: inline-block;
   transform: scale(0.9);
+}
+
+pre {
+  font-family: Consolas, 'Courier New', monospace;
+  font-size: var(--fs-norm);
+  line-height: 1.6;
+  background: #f4f4f4;
+  border-left: 3px solid #999;
+  padding: 0.75rem 1rem;
+  overflow-x: auto;
 }
 
 /* End Typography */

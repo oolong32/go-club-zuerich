@@ -100,7 +100,7 @@
 
 <section class="form-element">
   <label for="remarks"><?= t('remarks') ?></label>
-  <textarea rows="5" cols="43" id="remarks" name="remarks"><?= $data['remarks'] ?? null ?></textarea>
+  <textarea rows="5" cols="33" id="remarks" name="remarks"><?= $data['remarks'] ?? null ?></textarea>
 
 </section>
 

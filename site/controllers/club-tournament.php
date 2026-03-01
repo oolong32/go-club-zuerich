@@ -110,6 +110,7 @@ return function ($kirby, $page) {
             // everything went fine, go to success-page
             // store data in session
             $kirby->session()->set(array(
+              'origin' => 'club-tournament-registration',
               'referer' => $page->uri(),
               'name'  => esc($data['name']),
             ));

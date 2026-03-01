@@ -3,7 +3,12 @@
 	<li>
 	  <a class="unstyled-link" href="<?= $site->url() ?>" <?php echo $page->isHomePage() ? ' style="text-decoration: underline;"' : '' ?>>Home</a>
 	</li>
-    <?php foreach ($site->children()->listed() as $item): ?>
+    <?php foreach ($site->children()->listed()->filter(function ($item) {
+      return in_array($item->slug(), [
+        'club-tournament-registration-ok',
+        'club-tournament-result-ok'
+      ]) === false;
+    }) as $item): ?>
     <li><a class="unstyled-link" href="<?= $item->url() ?>"<?php e($item->isOpen(), ' style="text-decoration: underline;"') ?>><?= $item->naviName() ?></a></li>
     <?php endforeach ?>
   </ul>
