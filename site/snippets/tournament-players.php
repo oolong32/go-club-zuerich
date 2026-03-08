@@ -1,7 +1,7 @@
 <?php if ($players): ?>
 
 <h3 id="registered-players"><?php echo t('Registerd Players') ?></h3>
-<table id="players-table">
+<table id="players-table" style="border-collapse: collapse; border: none;">
   <thead>
   <tr>
     <th style="text-align: left;">Name</th>
