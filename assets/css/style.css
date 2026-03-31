@@ -148,6 +148,7 @@ body {
 }
 
 img { width: 100%; }
+figure.twint-button { max-width: 250px; }
 
 header { margin: 2rem 0; position: relative;}
 main { margin-bottom: 2rem; }
