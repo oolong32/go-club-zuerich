@@ -25,3 +25,39 @@ columns:
       files:
         type: files
         layout: list
+  - width: 1/1
+    sections:
+      event:
+        type: fields
+        label: "JSON-LD Event (optional – leave blank if this is not a tournament announcement)"
+        fields:
+          eventstart:
+            type: text
+            label: Event Start (ISO 8601)
+            placeholder: "2027-06-19T13:00:00+02:00"
+          eventend:
+            type: text
+            label: Event End (ISO 8601)
+            placeholder: "2027-06-20T18:00:00+02:00"
+          eventvenuename:
+            type: text
+            label: Venue Name
+          eventvenuestreet:
+            type: text
+            label: Venue Street
+          eventvenuepostalcode:
+            type: text
+            label: Venue Postal Code
+          eventvenuecity:
+            type: text
+            label: Venue City
+            placeholder: Zürich
+          eventprice:
+            type: text
+            label: Entry Fee (CHF)
+          eventperformername:
+            type: text
+            label: Performer Name (optional)
+          eventperformerurl:
+            type: text
+            label: Performer URL (optional)

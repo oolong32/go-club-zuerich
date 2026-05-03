@@ -26,7 +26,8 @@
   <link rel="alternate" hreflang="x-default" href="<?= $page->url(kirby()->defaultLanguage()->code()) ?>">
 
   <?php /* ── Open Graph ───────────────────────────────────────── */ ?>
-  <?php $ogDesc = $metaDesc->escape() ?>
+  <?php $ogDesc  = $metaDesc->escape() ?>
+  <?php $ogImage = $site->homePage()->file('parki.jpg') ?>
   <meta property="og:type"      content="<?= $page->isHomePage() ? 'website' : 'article' ?>">
   <meta property="og:title"     content="<?= $page->title()->escape() ?>">
   <meta property="og:url"       content="<?= $page->url() ?>">
@@ -35,27 +36,24 @@
   <meta property="og:description" content="<?= $ogDesc ?>">
   <?php endif ?>
   <meta property="og:locale"    content="<?= str_replace('-', '_', kirby()->language()->locale(LC_ALL)) ?>">
-
-  <?php /* ── JSON-LD (homepage only) ───────────────────────────── */ ?>
-  <?php if ($page->isHomePage()): ?>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "name": "<?= $site->title()->escape() ?>",
-        "url": "<?= $site->url() ?>"
-      },
-      {
-        "@type": "WebSite",
-        "name": "<?= $site->title()->escape() ?>",
-        "url": "<?= $site->url() ?>"
-      }
-    ]
-  }
-  </script>
+  <?php if ($ogImage): ?>
+  <meta property="og:image"     content="<?= $ogImage->url() ?>">
+  <meta property="og:image:alt" content="Go Club Zürich at Parki">
   <?php endif ?>
+
+  <?php /* ── Twitter Card ─────────────────────────────────────── */ ?>
+  <meta name="twitter:card"        content="<?= $ogImage ? 'summary_large_image' : 'summary' ?>">
+  <meta name="twitter:title"       content="<?= $page->title()->escape() ?>">
+  <?php if ($metaDesc->isNotEmpty()): ?>
+  <meta name="twitter:description" content="<?= $metaDesc->escape() ?>">
+  <?php endif ?>
+  <?php if ($ogImage): ?>
+  <meta name="twitter:image"     content="<?= $ogImage->url() ?>">
+  <meta name="twitter:image:alt" content="Go Club Zürich at Parki">
+  <?php endif ?>
+
+  <?php /* ── JSON-LD (structured data) ─────────────────────────── */ ?>
+  <?php snippet('json-ld') ?>
 
   <link rel="alternate" type="application/rss+xml" title="Zueri Go News" href="https://zurich.swissgo.org/news.rss">
   <?= css('/assets/css/reset.css') ?>

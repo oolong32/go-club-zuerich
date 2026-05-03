@@ -2,4 +2,4 @@ Title: Go Club Zürich
 
 ----
 
-Foo: Bar
+Description: Go Club Zürich ist der wöchentliche Treffpunkt der Stadt für Go-Spieler (Baduk, Weiqi). Alle Spielstärken willkommen — von Anfängern bis zu Profis. Wir treffen uns jeden Mittwoch ab 19:00 Uhr.

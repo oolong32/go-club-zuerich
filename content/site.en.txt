@@ -1,1 +1,5 @@
 Title: Go Club Zürich
+
+----
+
+Description: Go Club Zürich is the city's weekly meeting place for players of Go (Baduk, Weiqi). All skill levels welcome — beginners to professionals. We meet every Wednesday from 19:00.

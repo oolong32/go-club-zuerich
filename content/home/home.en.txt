@@ -4,11 +4,11 @@ Title: Home
 
 Text:
 
-Zürich’s meeting place for Go players.
+Zürich's meeting place for Go players.
 
 ### Club Venue
 
-The (link: https://www.park-platz.org/de/spaces/wuerfel text: Würfel) at Park Platz (aka. ‘Parki’), (link: https://s.geo.admin.ch/qfi5tb5o4tct text: Wasserwerkstrasse 101)
+The (link: https://www.park-platz.org/de/spaces/wuerfel text: Würfel) at Park Platz (aka. ‘Parki’), (link: https://s.geo.admin.ch/qfi5tb5o4tct text: Wasserwerkstrasse 101), 8037 Zürich
 
 ### Weekly Game Night
 
