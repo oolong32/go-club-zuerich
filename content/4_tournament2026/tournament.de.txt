@@ -15,8 +15,7 @@ Text:
 
 **Erste Partie:** Falls du nicht vorangemeldet bist, komm bitte eine halbe Stunde früher.
 
-**Ort:** (link: https://gz-zh.ch/gz-buchegg/ text: Gemeinschaftszentrum GZ Buchegg), Spiegelsaal
-Bucheggstrasse 93, 8057 Zürich (direkt beim Bucheggplatz)
+**Ort:** (link: https://gz-zh.ch/gz-buchegg/ text: Gemeinschaftszentrum GZ Buchegg), Spiegelsaal Bucheggstrasse 93, 8057 Zürich (direkt beim Bucheggplatz)
 
 <div class="tournament-image-row">
 (image: front.jpg alt: Eingang GZ Buchegg)
@@ -43,7 +42,7 @@ Am Freitag, den 19. Juni um 19:30 Uhr, wird In-seong einen Workshop in unserem C
 
 (image: epfl.jpg)
 
-(file: fruhlingsturnier-2026-_-go-club-zurich.pdf text: 📄 [PDF] Ausschreibung herunterladen)
+(file: fruhlingsturnier-2026-_-go-club-zurich.pdf text: [PDF] Ausschreibung herunterladen)
 
 ----
 
