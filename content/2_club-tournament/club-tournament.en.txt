@@ -6,7 +6,7 @@ Text: The tournament will start as soon as we have finalised the rules. However,
 
 ----
 
-Naviname: club tournament
+Naviname: Club Tournament
 
 ----
 
