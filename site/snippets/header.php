@@ -58,7 +58,7 @@
   <link rel="alternate" type="application/rss+xml" title="Zueri Go News" href="https://zurich.swissgo.org/news.rss">
   <?= css('/assets/css/reset.css') ?>
   <?= css('/assets/css/fonts.css') ?>
-  <?= css('/assets/css/style.css') ?>
+  <?= css('/assets/css/style.css?v=' . filemtime(kirby()->root('index') . '/assets/css/style.css')) ?>
   <?= css('/assets/css/print.css') ?>
 </head>
 

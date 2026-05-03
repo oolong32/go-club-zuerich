@@ -4,7 +4,7 @@
 <?php else : ?>
 
     <?php if (count($players) > 1) : ?>
-    <table id="pairing-table" style="text-align: center;">
+    <table id="pairing-table">
     <thead>
       <tr>
         <td class="invisible"></td>
@@ -64,7 +64,7 @@
   <hr>
   <aside id="pairing-table-legend" aria-labelledby="legende-title">
     <h4 id="legende-title"><?= t('legend') ?></h4>
-    <ul style="list-style: none; padding: 0;">
+    <ul>
     <li><span class="emoji">⌛️</span>️ <?= t('toPlay') ?></li>
     <li><span class="emoji">⚪</span>️ <?= t('won') ?></li>
     <li><span class="emoji">⚫</span>️ <?= t('lost') ?></li>

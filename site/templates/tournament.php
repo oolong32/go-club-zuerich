@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<main>
+<main id="spring-tournament">
   <h2><?= $page->title() ?></h2>
 
   <section id="tournament-info">

@@ -79,7 +79,7 @@
   <fieldset>
     <legend><?= t('workshopParticipate') ?>.</legend>
 
-    <div class="radio-buttons" style="margin-top: 0.5rem;">
+    <div class="radio-buttons">
       <span>
         <input type="radio" id="yes" name="workshop" value="yes" <?= (isset($data['workshop']) && $data['workshop'] == "yes") ? "checked" : null ?> />
         <label for="yes"><?= t('yes') ?></label>

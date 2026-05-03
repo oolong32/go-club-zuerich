@@ -35,6 +35,10 @@ nav .page-navigation li {
 nav .page-navigation li a:hover {
   text-decoration: underline;
 }
+
+nav .page-navigation li a.nav-active {
+  text-decoration: underline;
+}
 /* End Navigation */
 
 
@@ -150,6 +154,10 @@ body {
 img { width: 100%; }
 figure.twint-button { max-width: 250px; }
 
+#spring-tournament #players-table {
+  border: none;
+}
+
 header { margin: 2rem 0; position: relative;}
 main { margin-bottom: 2rem; }
 footer {
@@ -235,6 +243,7 @@ main article.news-item h3 {
   table-layout: fixed;
   text-transform: capitalize;
   margin: 1rem auto;
+  text-align: center;
 }
 
 #club-tournament #pairing-table td {
@@ -271,6 +280,11 @@ main article.news-item h3 {
 #club-tournament #pairing-table-legend ul {
   display: flex;
   align-items: baseline;
+}
+
+#club-tournament #pairing-table-legend ul {
+  list-style: none;
+  padding: 0;
 }
 
 #club-tournament #pairing-table-legend h4,
@@ -339,6 +353,7 @@ label {
 
 fieldset .radio-buttons {
   display: flex;
+  margin-top: 0.5rem;
 }
 
 fieldset .radio-buttons label {
