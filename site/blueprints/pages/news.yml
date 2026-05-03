@@ -1,11 +1,22 @@
 title: News
 
-sections:
-  news:
-    type: pages
-  fields:
-    type: fields
-    fields:
-      naviname:
-        type: text
-        label: Navi Name
+columns:
+  main:
+    width: 2/3
+    sections:
+      news:
+        type: pages
+  sidebar:
+    width: 1/3
+    sections:
+      metafields:
+        type: fields
+        fields:
+          naviname:
+            type: text
+            label: Navi Name
+          description:
+            type: textarea
+            size: small
+            label: Meta Description
+            help: "Shown in Google results and social share previews. Recommended: 120–160 characters."

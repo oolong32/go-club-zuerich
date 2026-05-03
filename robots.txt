@@ -3,3 +3,5 @@
 User-agent: *
 Disallow: /tournament2026/
 Disallow: /de/turnier2026/
+
+Sitemap: https://zurich.swissgo.org/sitemap.xml

@@ -24,5 +24,10 @@ columns:
           naviname:
             type: text
             label: Navi Name
+          description:
+            type: textarea
+            size: small
+            label: Meta Description
+            help: "Shown in Google results and social share previews. Recommended: 120–160 characters."
 
 
