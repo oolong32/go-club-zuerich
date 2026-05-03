@@ -57,6 +57,7 @@ return array(
     'enterName' => 'Bitte gib deinen Namen an.',
     'enterStrength' => 'Bitte gib deine Spielstärke an.',
     'clubTournamentRegistered' => 'du bist zum Club-Tournier angemeldet.',
-    'notEnoughPlayers' => 'Für eine Tabelle gibt es noch nicht genug angemeldete Spieler*innen.'
+    'notEnoughPlayers' => 'Für eine Tabelle gibt es noch nicht genug angemeldete Spieler*innen.',
+    'registeredPlayers' => 'Angemeldete Spieler*innen'
   )
 );

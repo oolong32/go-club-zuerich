@@ -57,6 +57,7 @@ return array(
     'enterName' => 'Please enter your name.',
     'enterStrength' => 'Please enter your strength.',
     'clubTournamentRegistered' => 'you registered for the Club-Tournament.',
-    'notEnoughPlayers' => 'There are not enough players yet to show a table.'
+    'notEnoughPlayers' => 'There are not enough players yet to show a table.',
+    'registeredPlayers' => 'Registered Players'
   ),
 );
