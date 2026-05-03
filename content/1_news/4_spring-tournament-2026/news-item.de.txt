@@ -4,8 +4,8 @@ Title: Zürcher Frühlingsturnier 2026
 
 Text:
 
-Das diesjährige Turnier findet wieder bei GZ Buchegg statt. Spiele go in den genau letzten zwei Tagen des Frühlings.
-(link: https://zurich.swissgo.org/tournament2026 text: https://zurich.swissgo.org/tournament2026)
+Das diesjährige Turnier findet wieder beim GZ Buchegg statt. Spiele go in den genau letzten zwei Tagen des Frühlings!
+(link: https://zurich.swissgo.org/de/turnier2026 text: https://zurich.swissgo.org/de/turnier2026)
 
 ----
 
@@ -14,6 +14,10 @@ Author: Lo
 ----
 
 Date: 2026-02-28
+
+----
+
+Description: 
 
 ----
 
@@ -50,7 +54,3 @@ Eventperformername: Hwang In-seong
 ----
 
 Eventperformerurl: http://www.yunguseng.com
-
-----
-
-Description: 
