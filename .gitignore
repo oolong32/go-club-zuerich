@@ -51,8 +51,8 @@ Icon
 
 .env
 .vscode
-.swp
-.swo
+*.swp
+*.swo
 
 # Development Environment
 .ddev
