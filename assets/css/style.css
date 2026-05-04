@@ -193,11 +193,6 @@ main article.news-item h3 {
   padding: 0.5rem 0.25rem;
 }
 
-#players-table th:nth-child(2), #players-table td:nth-child(2) { /* Rank */
-  text-align: right;
-  padding-right: 2rem;
-}
-
 #players-table tbody tr:nth-child(odd) {
   background-color: #eee;
 }

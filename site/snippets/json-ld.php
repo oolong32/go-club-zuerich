@@ -29,8 +29,8 @@ if ($isHome) {
         ],
         'geo'                       => [
             '@type'     => 'GeoCoordinates',
-            'latitude'  => 47.3905,
-            'longitude' => 8.5276,
+            'latitude'  => 47.3874,
+            'longitude' => 8.5331,
         ],
         'telephone'                 => '+41774173970',
         'sameAs'                    => 'https://wa.me/41774173970',
