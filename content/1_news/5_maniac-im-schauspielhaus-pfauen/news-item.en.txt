@@ -8,13 +8,62 @@ In 2016, Lee Sedol lost to AlphaGo in a five-game match. Schauspielhaus Zürich 
 
 (image: shz_maniac_print_c_eike_walkenhorst___a5a0466.jpg caption: Photo by © Eike Walkenhorst / Schauspielhaus Zürich)
 
-Based on Benjamín Labatut's novel, the 90-minute world premiere (directed by Calixto Bieito, Pfauen, from 8 May 2026) culminates in the real 2016 match between Lee Sedol and AlphaGo, re-enacted on stage. An actor sits at a Go board and loses three times. In Game 4, Move 78 at L11: an unorthodox stone that AlphaGo misreads, upon which the AI resigns. The play tells the story of how we got there; from John von Neumann, who designed the modern computer in the 1940s and contributed to the atomic bomb, to the AI systems that grew out of his work. Go runs through the whole piece as a common thread: a game long considered too complex for machines, until it suddenly wasn't.
+Based on Benjamín Labatut's novel, the 90-minute world premiere (directed by Calixto Bieito, Pfauen, from 8 May 2026) culminates in the 2016 match between Lee Sedol and AlphaGo, re-enacted on stage.
+In Game 4, Move 78 at L11 Lee Sedol plays an unorthodox move that AlphaGo misreads, upon which the AI resigns, it's like for the last time.
+
+The play tells the story of how we got there; from John von Neumann, who designed the modern computer in the 1940s and contributed to the atomic bomb, to the AI systems that grew out of his work. Go runs through the whole piece as a common thread.
 
 If you play Go and know what the 2016 match meant, don't miss this play!
 [Tickets: Schauspielhaus Zürich, Pfauen.](https://www.schauspielhaus.ch/en/kalender/34986/maniac)
 Running through the end of June 2026.
 
-(image: goclubzh_1778407236_3893884544797410715_62846068338.png)
+----
+
+Author: 
+
+----
+
+Date: 
+
+----
+
+Description: 
+
+----
+
+Eventstart: 
+
+----
+
+Eventend: 
+
+----
+
+Eventvenuename: 
+
+----
+
+Eventvenuestreet: 
+
+----
+
+Eventvenuepostalcode: 
+
+----
+
+Eventvenuecity: 
+
+----
+
+Eventprice: 
+
+----
+
+Eventperformername: 
+
+----
+
+Eventperformerurl: 
 
 ----
 
